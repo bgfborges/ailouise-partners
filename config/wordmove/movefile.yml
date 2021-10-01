@@ -1,0 +1,55 @@
+global:
+  sql_adapter: wpcli
+
+local:
+  vhost: "http://localhost:8000"
+  wordpress_path: "/var/www/html/"
+  database:
+    name: "wordpress"
+    user: "wordpress"
+    password: "wordpress"
+    host: "database"
+    mysqldump_options: "--hex-blob"
+
+production:
+  vhost: "https://www.example.com"
+  wordpress_path: "/home/user/public_html"
+
+  database:
+    name: ""
+    user: ""
+    password: ""
+    host: "localhost"
+    #port: ""
+    mysqldump_options: "--hex-blob"
+
+  exclude:
+    - '.git/'
+    - '.gitignore'
+    - '.gitmodules'
+    - '.env'
+    - 'node_modules/'
+    - 'bin/'
+    - 'tmp/*'
+    - 'Gemfile*'
+    - 'Movefile'
+    - 'movefile'
+    - 'movefile.yml'
+    - 'movefile.yaml'
+    - 'wp-config.php'
+    - 'wp-content/*.sql.gz'
+    - '*.orig'
+    - 'wp-content/uploads/backwpup*/*'
+    - '.htaccess'
+    - '.idea/'
+    - 'php.ini'
+    - '.user.ini'
+    - 'cgi-bin/'
+    - '.well-known/'
+
+  ssh:
+    host: ""
+    user: ""
+    password: ""
+    port: ""
+    rsync_options: "--verbose"

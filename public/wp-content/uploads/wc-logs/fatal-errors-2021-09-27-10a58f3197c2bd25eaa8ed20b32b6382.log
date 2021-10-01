@@ -1,0 +1,172 @@
+2021-09-27T11:49:37+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:49:56+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:51:17+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:52:21+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:52:57+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:53:36+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:53:50+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:54:28+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:55:14+00:00 CRITICAL syntax error, unexpected ',', em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 12
+
+2021-09-27T11:55:41+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:57:17+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:58:41+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-27T11:59:40+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on int in /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php:1365
+Stack trace:
+#0 /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php(68): WC_Abstract_Order->add_product(4612, 1, Array)
+#1 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#2 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#5 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#6 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#7 /var/www/html/wp-admin/post.php(227): edit_post()
+#8 {main}
+  thrown, em /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php, na linha 1365
+
+2021-09-27T12:01:33+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on int in /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php:1365
+Stack trace:
+#0 /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php(71): WC_Abstract_Order->add_product(4612, 1, Array)
+#1 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#2 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#5 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#6 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#7 /var/www/html/wp-admin/post.php(227): edit_post()
+#8 {main}
+  thrown, em /var/www/html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php, na linha 1365
+
+2021-09-27T12:02:56+00:00 CRITICAL Uncaught Error: You cannot create a proposal with commission less than 0. in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:30
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(4592)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 4592, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+

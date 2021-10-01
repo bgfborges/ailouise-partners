@@ -1,0 +1,1435 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Nusapp",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career Detail",
+            "screenshot": "screenshots\/career-detail.jpg",
+            "source": "templates\/career-detail.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/career-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Login",
+            "screenshot": "screenshots\/login.jpg",
+            "source": "templates\/login.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/login\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Features",
+            "screenshot": "screenshots\/features.jpg",
+            "source": "templates\/features.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/features\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.0.11",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "appstore.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/appstore.png",
+            "templates": [
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career Detail"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/login.json",
+                    "name": "Login"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2680,
+            "dimensions": [
+                175,
+                56
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/developer.apple.com\/app-store\/marketing\/guidelines\/"
+        },
+        {
+            "filename": "gplay.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/gplay.png",
+            "templates": [
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career Detail"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/login.json",
+                    "name": "Login"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3183,
+            "dimensions": [
+                198,
+                56
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/developer.android.com\/distribute\/marketing-tools\/brand-guidelines"
+        },
+        {
+            "filename": "app11.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/app11.png",
+            "templates": [
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career Detail"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/login.json",
+                    "name": "Login"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10256,
+            "dimensions": [
+                400,
+                292
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shabu-watch-os-ui-kits-DMN3R25"
+        },
+        {
+            "filename": "circle-dots.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/circle-dots.png",
+            "templates": [
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career Detail"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/login.json",
+                    "name": "Login"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1740,
+            "dimensions": [
+                213,
+                226
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/circle-dots.png"
+        },
+        {
+            "filename": "career3.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/career3-800x454.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 135202,
+            "dimensions": [
+                1440,
+                818
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/working-as-team-PEEUGKK"
+        },
+        {
+            "filename": "icon1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/icon1.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3090,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-finance-symbols-thin-line-icons-EDQJPE"
+        },
+        {
+            "filename": "icon4.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/icon4.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4881,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-finance-symbols-thin-line-icons-EDQJPE"
+        },
+        {
+            "filename": "icon5.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/icon5.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2947,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-finance-symbols-thin-line-icons-EDQJPE"
+        },
+        {
+            "filename": "doodle4.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/doodle4.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12526,
+            "dimensions": [
+                369,
+                156
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/girls-playing-with-gadget-H8DVH5G"
+        },
+        {
+            "filename": "ellipse-dot.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/ellipse-dot.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/login.json",
+                    "name": "Login"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1897,
+            "dimensions": [
+                273,
+                273
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/ellipse-dot.png"
+        },
+        {
+            "filename": "contact.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/contact.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 249548,
+            "dimensions": [
+                443,
+                549
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-and-elegant-young-businesswoman-scrolling-th-FNYB7BM"
+        },
+        {
+            "filename": "app31.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/app31.png",
+            "templates": [
+                {
+                    "source": "templates\/login.json",
+                    "name": "Login"
+                }
+            ],
+            "filesize": 8301,
+            "dimensions": [
+                422,
+                503
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shabu-watch-os-ui-kits-DMN3R25"
+        },
+        {
+            "filename": "doodle31.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/doodle31.png",
+            "templates": [
+                {
+                    "source": "templates\/login.json",
+                    "name": "Login"
+                }
+            ],
+            "filesize": 18650,
+            "dimensions": [
+                313,
+                339
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/youth-with-gadget-doodle-8KL8G9T"
+        },
+        {
+            "filename": "app10.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/app10.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8483,
+            "dimensions": [
+                425,
+                355
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shabu-watch-os-ui-kits-DMN3R25"
+        },
+        {
+            "filename": "dots-blue.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/dots-blue.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 190,
+            "dimensions": [
+                128,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/dots-blue.png"
+        },
+        {
+            "filename": "doodle5.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/doodle5.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13370,
+            "dimensions": [
+                241,
+                302
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/youth-with-gadget-doodle-CBCHBSQ"
+        },
+        {
+            "filename": "doodle6.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/doodle6.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 19626,
+            "dimensions": [
+                334,
+                409
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/girls-playing-with-gadget-H8DVH5G"
+        },
+        {
+            "filename": "doodle12.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/doodle12.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 10306,
+            "dimensions": [
+                138,
+                369
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/youth-with-gadget-doodle-CBCHBSQ"
+        },
+        {
+            "filename": "team6.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/team6.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18507,
+            "dimensions": [
+                199,
+                198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "dots-grey.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/dots-grey.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 196,
+            "dimensions": [
+                128,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/dots-grey.png"
+        },
+        {
+            "filename": "team3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/team3.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 19293,
+            "dimensions": [
+                199,
+                198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "team5.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/team5.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18445,
+            "dimensions": [
+                199,
+                198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "team1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/team1.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 15026,
+            "dimensions": [
+                198,
+                198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "team4.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/team4.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 18205,
+            "dimensions": [
+                198,
+                198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "team2.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/team2.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 15502,
+            "dimensions": [
+                199,
+                198
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "team2.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/team2.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 36899,
+            "dimensions": [
+                443,
+                549
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-innovators-V2ZBGE3"
+        },
+        {
+            "filename": "icon3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/icon3.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4697,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-finance-symbols-thin-line-icons-EDQJPE"
+        },
+        {
+            "filename": "icon6.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/icon6.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2445,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-finance-symbols-thin-line-icons-EDQJPE"
+        },
+        {
+            "filename": "team.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/team-800x454.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 127191,
+            "dimensions": [
+                1440,
+                818
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/marketing-team-VYCSGUL"
+        },
+        {
+            "filename": "logo-7.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/logo-7.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3539,
+            "dimensions": [
+                180,
+                41
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-6.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3176,
+            "dimensions": [
+                196,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-3.svg"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3039,
+            "dimensions": [
+                178,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-3.svg"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3030,
+            "dimensions": [
+                192,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/logo\/logo-3.svg"
+        },
+        {
+            "filename": "app5.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/app5.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21729,
+            "dimensions": [
+                781,
+                488
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shabu-watch-os-ui-kits-DMN3R25"
+        },
+        {
+            "filename": "doodle7.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/doodle7.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9075,
+            "dimensions": [
+                204,
+                255
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/girls-playing-with-gadget-H8DVH5G"
+        },
+        {
+            "filename": "doodle1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/doodle1.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14157,
+            "dimensions": [
+                195,
+                399
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/playing-with-gadget-doodle-KYBBDCH"
+        },
+        {
+            "filename": "icon2.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/icon2.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3295,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-finance-symbols-thin-line-icons-EDQJPE"
+        },
+        {
+            "filename": "app3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/app3.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12163,
+            "dimensions": [
+                422,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shabu-watch-os-ui-kits-DMN3R25"
+        },
+        {
+            "filename": "ellipse-small.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/ellipse-small.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1558,
+            "dimensions": [
+                211,
+                211
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/ellipse-small.png"
+        },
+        {
+            "filename": "doodle3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/doodle3.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12180,
+            "dimensions": [
+                174,
+                427
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/girls-playing-with-gadget-H8DVH5G"
+        },
+        {
+            "filename": "testi-quote.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/testi-quote.png",
+            "templates": [
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1268,
+            "dimensions": [
+                107,
+                107
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/testi-quote.png"
+        },
+        {
+            "filename": "ellipse-large.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/ellipse-large.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3237,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/ellipse-large.png"
+        },
+        {
+            "filename": "app2.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/app2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8550,
+            "dimensions": [
+                379,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shabu-watch-os-ui-kits-DMN3R25"
+        },
+        {
+            "filename": "doodle2.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/doodle2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12434,
+            "dimensions": [
+                170,
+                386
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/girls-playing-with-gadget-H8DVH5G"
+        },
+        {
+            "filename": "icon9.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/icon9.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1044,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-finance-symbols-thin-line-icons-EDQJPE"
+        },
+        {
+            "filename": "icon8.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/icon8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2862,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-finance-symbols-thin-line-icons-EDQJPE"
+        },
+        {
+            "filename": "icon10.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/icon10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3373,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-finance-symbols-thin-line-icons-EDQJPE"
+        },
+        {
+            "filename": "logo-white.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/logo-white.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2804,
+            "dimensions": [
+                344,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/logo-white.png"
+        },
+        {
+            "filename": "logo-large.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/logo-large.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3380,
+            "dimensions": [
+                344,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/logo-large.png"
+        }
+    ]
+}

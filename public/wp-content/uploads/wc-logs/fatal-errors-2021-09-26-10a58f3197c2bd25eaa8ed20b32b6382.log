@@ -1,0 +1,284 @@
+2021-09-26T16:03:50+00:00 CRITICAL require(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:04:17+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:04:55+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:04:58+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:04:59+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:05:09+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:05:24+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:06:26+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:07:02+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:07:02+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:07:02+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 28
+
+2021-09-26T16:08:33+00:00 CRITICAL syntax error, unexpected ')', em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 32
+
+2021-09-26T16:09:02+00:00 CRITICAL syntax error, unexpected ')', em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 32
+
+2021-09-26T16:09:09+00:00 CRITICAL syntax error, unexpected ')', em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 32
+
+2021-09-26T16:09:13+00:00 CRITICAL syntax error, unexpected ')', em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 32
+
+2021-09-26T16:10:35+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 33
+
+2021-09-26T16:10:36+00:00 CRITICAL require_once(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 33
+
+2021-09-26T16:10:42+00:00 CRITICAL require(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 33
+
+2021-09-26T16:11:03+00:00 CRITICAL require(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 33
+
+2021-09-26T16:11:09+00:00 CRITICAL require(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 33
+
+2021-09-26T16:11:13+00:00 CRITICAL require(): Failed opening required 'http://localhost:8000/wp-content/themes/child-hello-elementor/post-types/lu_orders.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 33
+
+2021-09-26T21:22:17+00:00 CRITICAL require(): Failed opening required '/var/www/html/wp-content/themes/child-hello-elementor/metaboxes.lu_orders/metabox.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 37
+
+2021-09-26T21:22:17+00:00 CRITICAL require(): Failed opening required '/var/www/html/wp-content/themes/child-hello-elementor/metaboxes.lu_orders/metabox.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 37
+
+2021-09-26T21:22:18+00:00 CRITICAL require(): Failed opening required '/var/www/html/wp-content/themes/child-hello-elementor/metaboxes.lu_orders/metabox.php' (include_path='.:/usr/local/lib/php'), em /var/www/html/wp-content/themes/child-hello-elementor/functions.php, na linha 37
+
+2021-09-26T21:46:11+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE), em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T21:46:11+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE), em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T21:46:14+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE), em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T21:46:15+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE), em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:00:46+00:00 CRITICAL syntax error, unexpected ';', expecting ')', em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 21
+
+2021-09-26T22:18:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('2620')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '2620', 312, '_edit_lock', '1632694736:1')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 312, '_edit_lock', '1632694736:1', '')
+#5 /var/www/html/wp-admin/includes/post.php(1659): update_post_meta(312, '_edit_lock', '1632694736:1')
+#6 /var/www/html/wp-admin/includes/misc.php(1138): wp_set_post_lock(312)
+#7 /var/www/html/wp-includes/class-wp-hook.php(303): wp_, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:19:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('234')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '234', 59, '_edit_lock', '1632694750:1')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 59, '_edit_lock', '1632694750:1', '')
+#5 /var/www/html/wp-admin/includes/post.php(1659): update_post_meta(59, '_edit_lock', '1632694750:1')
+#6 /var/www/html/wp-content/plugins/elementor/core/editor/editor.php(286): wp_set_post_lock('59')
+#7 /var/www/html/wp-content/plugins/, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:19:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('2659')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '2659', 312, 'lu_landing-page...', '')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 312, 'lu_landing-page...', '', '')
+#5 /var/www/html/wp-content/themes/child-hello-elementor/metaboxes/lu_orders/metabox.php(58): update_post_meta(312, 'lu_landing-page...', '')
+#6 /var/www/html/wp-includes/class-wp-hook.php(305): Products->save_post(312)
+#7 /var/www/html/wp-, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:19:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('2659')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '2659', 312, 'lu_landing-page...', 'on')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 312, 'lu_landing-page...', 'on', '')
+#5 /var/www/html/wp-content/themes/child-hello-elementor/metaboxes/lu_orders/metabox.php(58): update_post_meta(312, 'lu_landing-page...', 'on')
+#6 /var/www/html/wp-includes/class-wp-hook.php(305): Products->save_post(312)
+#7 /var/www/ht, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:19:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('234')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '234', 59, '_edit_lock', '1632694768:1')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 59, '_edit_lock', '1632694768:1', '')
+#5 /var/www/html/wp-admin/includes/post.php(1659): update_post_meta(59, '_edit_lock', '1632694768:1')
+#6 /var/www/html/wp-content/plugins/elementor/core/editor/editor.php(286): wp_set_post_lock('59')
+#7 /var/www/html/wp-content/plugins/, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:19:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('234')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '234', 59, '_edit_lock', '1632694783:1')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 59, '_edit_lock', '1632694783:1', '')
+#5 /var/www/html/wp-admin/includes/post.php(1659): update_post_meta(59, '_edit_lock', '1632694783:1')
+#6 /var/www/html/wp-content/plugins/elementor/core/editor/editor.php(286): wp_set_post_lock('59')
+#7 /var/www/html/wp-content/plugins/, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:19:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('2620')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '2620', 312, '_edit_lock', '1632694789:1')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 312, '_edit_lock', '1632694789:1', '')
+#5 /var/www/html/wp-admin/includes/post.php(1659): update_post_meta(312, '_edit_lock', '1632694789:1')
+#6 /var/www/html/wp-admin/edit-form-blocks.php(155): wp_set_post_lock(312)
+#7 /var/www/html/wp-admin/post.php(187): require('/var, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:21:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('2659')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '2659', 312, 'lu_landing-page...', '')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 312, 'lu_landing-page...', '', '')
+#5 /var/www/html/wp-content/themes/child-hello-elementor/metaboxes/lu_orders/metabox.php(58): update_post_meta(312, 'lu_landing-page...', '')
+#6 /var/www/html/wp-includes/class-wp-hook.php(305): Products->save_post(312)
+#7 /var/www/html/wp-, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:21:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('2659')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '2659', 312, 'lu_landing-page...', 'on')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 312, 'lu_landing-page...', 'on', '')
+#5 /var/www/html/wp-content/themes/child-hello-elementor/metaboxes/lu_orders/metabox.php(58): update_post_meta(312, 'lu_landing-page...', 'on')
+#6 /var/www/html/wp-includes/class-wp-hook.php(305): Products->save_post(312)
+#7 /var/www/ht, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:21:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('2620')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '2620', 312, '_edit_lock', '1632694869:1')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 312, '_edit_lock', '1632694869:1', '')
+#5 /var/www/html/wp-admin/includes/post.php(1659): update_post_meta(312, '_edit_lock', '1632694869:1')
+#6 /var/www/html/wp-admin/edit-form-blocks.php(155): wp_set_post_lock(312)
+#7 /var/www/html/wp-admin/post.php(187): require('/var, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:21:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('2620')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '2620', 312, '_edit_lock', '1632694872:1')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 312, '_edit_lock', '1632694872:1', '')
+#5 /var/www/html/wp-admin/includes/post.php(1659): update_post_meta(312, '_edit_lock', '1632694872:1')
+#6 /var/www/html/wp-admin/edit-form-blocks.php(155): wp_set_post_lock(312)
+#7 /var/www/html/wp-admin/post.php(187): require('/var, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:21:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 2 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('2620')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/meta.php(292): do_action('updated_post_me...', '2620', 312, '_edit_lock', '1632694875:1')
+#4 /var/www/html/wp-includes/post.php(2335): update_metadata('post', 312, '_edit_lock', '1632694875:1', '')
+#5 /var/www/html/wp-admin/includes/post.php(1659): update_post_meta(312, '_edit_lock', '1632694875:1')
+#6 /var/www/html/wp-admin/edit-form-blocks.php(155): wp_set_post_lock(312)
+#7 /var/www/html/wp-admin/post.php(187): require('/var, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:23:02+00:00 CRITICAL syntax error, unexpected '}', expecting end of file, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 30
+
+2021-09-26T22:54:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 3 passed in /var/www/html/wp-includes/class-wp-hook.php on line 303 and exactly 4 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(303): generate_wooorder_from_luorder(312, Object(WP_Post), true)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 312, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, true, false)
+#5 /var/www/html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(821): wp_update_post(Array, true, false)
+#6 /var/www/html/wp-includes/rest-api/class-wp-rest-server.php(1140): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request)), em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T22:54:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 3 passed in /var/www/html/wp-includes/class-wp-hook.php on line 303 and exactly 4 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(303): generate_wooorder_from_luorder(312, Object(WP_Post), true)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 312, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T23:21:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 3 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(312)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 312, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, true, false)
+#5 /var/www/html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(821): wp_update_post(Array, true, false)
+#6 /var/www/html/wp-includes/rest-api/class-wp-rest-server.php(1140): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#7 /var/www/html/wp-in, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T23:21:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 3 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(312)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 312, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T23:21:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 3 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(312)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 312, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, true, false)
+#5 /var/www/html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(821): wp_update_post(Array, true, false)
+#6 /var/www/html/wp-includes/rest-api/class-wp-rest-server.php(1140): WP_REST_Posts_Controller->update_item(Object(WP_REST_Request))
+#7 /var/www/html/wp-in, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T23:21:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 3 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder(312)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(4457): do_action('save_post_lu_or...', 312, Object(WP_Post), true)
+#4 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#5 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#6 /var/www/html/wp-admin/post.php(227): edit_post()
+#7 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T23:33:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 3 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('publish')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(5098): do_action('transition_post...', 'publish', 'publish', Object(WP_Post))
+#4 /var/www/html/wp-includes/post.php(4368): wp_transition_post_status('publish', 'publish', Object(WP_Post))
+#5 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, true, false)
+#6 /var/www/html/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(821): wp_update_post(Array, true, false)
+#7 /var/www/html/wp-includ, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+
+2021-09-26T23:33:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function generate_wooorder_from_luorder(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 3 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:4
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): generate_wooorder_from_luorder('publish')
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-includes/post.php(5098): do_action('transition_post...', 'publish', 'publish', Object(WP_Post))
+#4 /var/www/html/wp-includes/post.php(4368): wp_transition_post_status('publish', 'publish', Object(WP_Post))
+#5 /var/www/html/wp-includes/post.php(4570): wp_insert_post(Array, false, true)
+#6 /var/www/html/wp-admin/includes/post.php(423): wp_update_post(Array)
+#7 /var/www/html/wp-admin/post.php(227): edit_post()
+#8 {main}
+  thrown, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 4
+

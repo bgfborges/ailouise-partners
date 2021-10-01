@@ -1,0 +1,3241 @@
+{
+    "manifest_version": "1.0.17",
+    "title": "Anova",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.png",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.png",
+            "source": "templates\/our-services.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 page",
+            "screenshot": "screenshots\/404-page.png",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our process",
+            "screenshot": "screenshots\/our-process.png",
+            "source": "templates\/our-process.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/our-process\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "How it Works",
+            "screenshot": "screenshots\/how-it-works.png",
+            "source": "templates\/how-it-works.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/how-it-works\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Pricing",
+            "screenshot": "screenshots\/our-pricing.png",
+            "source": "templates\/our-pricing.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/our-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version Four",
+            "screenshot": "screenshots\/home-version-four.png",
+            "source": "templates\/home-version-four.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/home-version-four\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version Three",
+            "screenshot": "screenshots\/home-version-three.png",
+            "source": "templates\/home-version-three.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/home-version-three\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version One",
+            "screenshot": "screenshots\/home-version-one.png",
+            "source": "templates\/home-version-one.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/home-version-one\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version Two",
+            "screenshot": "screenshots\/home-version-two.png",
+            "source": "templates\/home-version-two.json",
+            "preview_url": "https:\/\/anova.radiantthemes.com\/template-kit\/home-version-two\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Awesome Contact Form7 for Elementor",
+            "version": "1.2",
+            "file": "awesome-contact-form7-for-elementor\/init.php",
+            "author": "B.M. Rafiul Alam"
+        },
+        {
+            "name": "Contact Form 7",
+            "version": "5.3.1",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.14",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.3",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "footer-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/footer-bg-600x191.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 8378,
+            "dimensions": [
+                1513,
+                482
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1996,
+            "dimensions": [
+                106,
+                19
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3021,
+            "dimensions": [
+                106,
+                19
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "top-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/top-bg-600x88.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                },
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 13508,
+            "dimensions": [
+                1920,
+                282
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ico-location.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/ico-location.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 2490,
+            "dimensions": [
+                44,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ico-message.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/ico-message.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 2112,
+            "dimensions": [
+                44,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ico-phone.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/ico-phone.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 1801,
+            "dimensions": [
+                44,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/bg-2-600x313.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 23054,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dashboard-image.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/dashboard-image-600x294.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 58682,
+            "dimensions": [
+                1079,
+                528
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dot-line.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/dot-line.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 945,
+            "dimensions": [
+                112,
+                2
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "big-icon-01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/big-icon-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 4941,
+            "dimensions": [
+                86,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "big-icon-02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/big-icon-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 4134,
+            "dimensions": [
+                86,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "big-icon-03.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/big-icon-03.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 3813,
+            "dimensions": [
+                86,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-01-3.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/image-01-3.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 34851,
+            "dimensions": [
+                533,
+                305
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/startup-landing-page-web-template_5776967.htm#page=2&query=development&position=17"
+        },
+        {
+            "filename": "small-icon-01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/small-icon-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 2695,
+            "dimensions": [
+                56,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "small-icon-02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/small-icon-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 3853,
+            "dimensions": [
+                56,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "small-icon-03.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/small-icon-03.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 3399,
+            "dimensions": [
+                56,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "small-icon-04.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/small-icon-04.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 3853,
+            "dimensions": [
+                56,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "small-icon-05.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/small-icon-05.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 2373,
+            "dimensions": [
+                56,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "small-icon-06.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/small-icon-06.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 3006,
+            "dimensions": [
+                56,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-02-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/image-02-2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 41611,
+            "dimensions": [
+                547,
+                437
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/programming-concept-illustration_7118758.htm"
+        },
+        {
+            "filename": "bg-3.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/12\/bg-3-600x273.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 23123,
+            "dimensions": [
+                1920,
+                873
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image08.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image08-600x265.png",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 77288,
+            "dimensions": [
+                1171,
+                517
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404-image-new.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/404-image-new.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 page"
+                }
+            ],
+            "filesize": 46654,
+            "dimensions": [
+                400,
+                181
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-a-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-a-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 4000,
+            "dimensions": [
+                84,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-b-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-b-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 4325,
+            "dimensions": [
+                84,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-c-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-c-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 3729,
+            "dimensions": [
+                84,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-d-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-d-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 6547,
+            "dimensions": [
+                84,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-e-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-e-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 4741,
+            "dimensions": [
+                84,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-f-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-f-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 3501,
+            "dimensions": [
+                84,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-v2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-v2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 30876,
+            "dimensions": [
+                568,
+                429
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-op-01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-op-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 3114,
+            "dimensions": [
+                70,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-op-02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-op-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 3193,
+            "dimensions": [
+                70,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-op-03.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-op-03.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 4658,
+            "dimensions": [
+                70,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-5.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/bg-5.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 68572,
+            "dimensions": [
+                599,
+                544
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-op-04.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-op-04.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 4170,
+            "dimensions": [
+                70,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-op-05.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-op-05.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 4222,
+            "dimensions": [
+                70,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-op-06.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon-op-06.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 4148,
+            "dimensions": [
+                70,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "no-01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/no-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 1966,
+            "dimensions": [
+                31,
+                41
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "no-02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/no-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 2093,
+            "dimensions": [
+                31,
+                41
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "no-03.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/no-03.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 2190,
+            "dimensions": [
+                31,
+                41
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-v4-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-v4-1-600x796.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                }
+            ],
+            "filesize": 66382,
+            "dimensions": [
+                622,
+                825
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-01-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 10496,
+            "dimensions": [
+                138,
+                138
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/men-userpic-set_4029815.htm#page=1&query=user+icon+avatar&position=15"
+        },
+        {
+            "filename": "image-02-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-02-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 8744,
+            "dimensions": [
+                138,
+                138
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/hand-drawn-people-avatar-set_5351907.htm#page=2&query=man+face&position=34"
+        },
+        {
+            "filename": "image-03-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-03-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 12008,
+            "dimensions": [
+                138,
+                138
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/men-userpic-set_4029815.htm#page=1&query=user+icon+avatar&position=15"
+        },
+        {
+            "filename": "image-04.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-04.png",
+            "templates": [
+                {
+                    "source": "templates\/our-process.json",
+                    "name": "Our process"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 13695,
+            "dimensions": [
+                138,
+                138
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/men-userpic-set_4029815.htm#page=1&query=user+icon+avatar&position=15"
+        },
+        {
+            "filename": "01-7.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/01-7.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 5257,
+            "dimensions": [
+                108,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-7.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/02-7.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 5233,
+            "dimensions": [
+                108,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03-7.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/03-7.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 5458,
+            "dimensions": [
+                108,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "04-9.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/04-9.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 4449,
+            "dimensions": [
+                108,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "gray-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/gray-bg-600x1102.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 23979,
+            "dimensions": [
+                1366,
+                2508
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "big-image-01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/big-image-01.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 29100,
+            "dimensions": [
+                566,
+                431
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-6.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/01-6.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 1712,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dot-line-01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/dot-line-01.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 1526,
+            "dimensions": [
+                39,
+                489
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-6.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/02-6.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 1944,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dot-line-02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/dot-line-02.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 1521,
+            "dimensions": [
+                39,
+                489
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "big-image-02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/big-image-02.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 35828,
+            "dimensions": [
+                502,
+                355
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/software-developers-programming-computer-with-script_9176833.htm#page=1&query=development&position=39"
+        },
+        {
+            "filename": "big-image-03.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/big-image-03.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 48562,
+            "dimensions": [
+                526,
+                455
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03-6.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/03-6.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 2021,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "04-8.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/04-8.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 1801,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "big-image-04.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/big-image-04.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 37341,
+            "dimensions": [
+                590,
+                444
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image06.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image06.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 7164,
+            "dimensions": [
+                177,
+                51
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image07.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image07.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 10649,
+            "dimensions": [
+                177,
+                51
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/01.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                },
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 6632,
+            "dimensions": [
+                177,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/collection-logos-branding-vector_3425222.htm#page=1&query=logo&position=21"
+        },
+        {
+            "filename": "02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/02.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                },
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 4838,
+            "dimensions": [
+                177,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/collection-logos-branding-vector_3425222.htm#page=1&query=logo&position=21"
+        },
+        {
+            "filename": "03.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/03.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                },
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 4372,
+            "dimensions": [
+                177,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/collection-logos-branding-vector_3585444.htm#page=1&query=smile%20logo&position=11"
+        },
+        {
+            "filename": "05.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/05.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                },
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 2673,
+            "dimensions": [
+                177,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "04-4.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/04-4.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                },
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 3699,
+            "dimensions": [
+                177,
+                70
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-4.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/01-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 2603,
+            "dimensions": [
+                81,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-4.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/02-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 4985,
+            "dimensions": [
+                81,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03-4.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/03-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 5110,
+            "dimensions": [
+                81,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "04-6.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/04-6.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 3723,
+            "dimensions": [
+                81,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "05-3.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/05-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 4799,
+            "dimensions": [
+                81,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "06-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/06-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 4273,
+            "dimensions": [
+                81,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image01-3.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image01-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 37624,
+            "dimensions": [
+                559,
+                372
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "arrow.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/arrow.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 2164,
+            "dimensions": [
+                27,
+                27
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image02-3.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image02-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 29647,
+            "dimensions": [
+                577,
+                398
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "gray-bg-01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/gray-bg-01-600x208.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 14495,
+            "dimensions": [
+                1920,
+                666
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "get-in-touch-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/get-in-touch-bg-600x172.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 9288,
+            "dimensions": [
+                1920,
+                550
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "gray-curve-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/gray-curve-bg-600x118.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 10834,
+            "dimensions": [
+                1920,
+                378
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "main-bg-p-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/main-bg-p-1-600x183.png",
+            "templates": [
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 16774,
+            "dimensions": [
+                1920,
+                584
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "check.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/check.png",
+            "templates": [
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 1966,
+            "dimensions": [
+                37,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dot-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/dot-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 5148,
+            "dimensions": [
+                108,
+                91
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image01-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 39550,
+            "dimensions": [
+                422,
+                343
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "box.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/box.png",
+            "templates": [
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 1930,
+            "dimensions": [
+                44,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "faq-bg-p-1-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/faq-bg-p-1-1-600x250.png",
+            "templates": [
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 13108,
+            "dimensions": [
+                1920,
+                799
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/banner-2-600x353.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 85805,
+            "dimensions": [
+                1138,
+                669
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/shape.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 2733,
+            "dimensions": [
+                118,
+                52
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-01-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 24950,
+            "dimensions": [
+                286,
+                232
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 21229,
+            "dimensions": [
+                286,
+                232
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-03.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 12861,
+            "dimensions": [
+                286,
+                232
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image04-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image04-1-600x416.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 47956,
+            "dimensions": [
+                672,
+                466
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-3.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/01-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 3649,
+            "dimensions": [
+                82,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-3.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/02-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 4064,
+            "dimensions": [
+                82,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03-3.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/03-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 3866,
+            "dimensions": [
+                82,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "04-5.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/04-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 5017,
+            "dimensions": [
+                82,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "05-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/05-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 3740,
+            "dimensions": [
+                82,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "06-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/06-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 4995,
+            "dimensions": [
+                82,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg02.jpg",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/bg02-600x157.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 18106,
+            "dimensions": [
+                1156,
+                302
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image05-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image05-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-four.json",
+                    "name": "Home Version Four"
+                }
+            ],
+            "filesize": 13756,
+            "dimensions": [
+                217,
+                195
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-h3-new.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/bg-h3-new-600x313.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 81730,
+            "dimensions": [
+                1920,
+                1003
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dashboard-with-man.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/dashboard-with-man-600x291.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 101021,
+            "dimensions": [
+                1227,
+                595
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 5393,
+            "dimensions": [
+                82,
+                78
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "04-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/04-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 4115,
+            "dimensions": [
+                81,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/02-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 4518,
+            "dimensions": [
+                81,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "like-icon-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/like-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 3236,
+            "dimensions": [
+                81,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/bg-600x233.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 12089,
+            "dimensions": [
+                1920,
+                744
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dashboard-v2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/dashboard-v2-600x300.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 39886,
+            "dimensions": [
+                806,
+                403
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "05-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/05-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 4847,
+            "dimensions": [
+                84,
+                65
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "06.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 4416,
+            "dimensions": [
+                84,
+                65
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "07.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 5930,
+            "dimensions": [
+                84,
+                65
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "testimonials-image-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/testimonials-image-1-600x267.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 11915,
+            "dimensions": [
+                1006,
+                448
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client-image.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/client-image.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 37033,
+            "dimensions": [
+                362,
+                343
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/bg02-600x572.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 18956,
+            "dimensions": [
+                1509,
+                1438
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "08.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/08.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 2699,
+            "dimensions": [
+                48,
+                49
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "first-right-image-top.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/first-right-image-top.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 29399,
+            "dimensions": [
+                589,
+                409
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "first-left-image-top.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/first-left-image-top.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 25920,
+            "dimensions": [
+                477,
+                305
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "09-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/09-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 2275,
+            "dimensions": [
+                48,
+                49
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "last-section-image-v2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/last-section-image-v2-600x134.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 22048,
+            "dimensions": [
+                1920,
+                430
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-01-bg-new2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/home-01-bg-new2-600x208.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 28264,
+            "dimensions": [
+                1920,
+                665
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "top-image.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/top-image-600x421.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 46533,
+            "dimensions": [
+                636,
+                446
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "middle-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/middle-bg-600x266.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 17470,
+            "dimensions": [
+                1920,
+                852
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-page-1-dashboard.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/home-page-1-dashboard-600x314.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 97032,
+            "dimensions": [
+                1059,
+                555
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-01-p2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-01-p2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 29289,
+            "dimensions": [
+                542,
+                380
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-02-p2.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-02-p2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 25639,
+            "dimensions": [
+                466,
+                387
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "one-meetings-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/one-meetings-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 6721,
+            "dimensions": [
+                167,
+                139
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "collabrative-action-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/collabrative-action-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 8650,
+            "dimensions": [
+                167,
+                139
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "share-with-anyone.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/share-with-anyone.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 6295,
+            "dimensions": [
+                167,
+                139
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "testimonials-bg-01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/testimonials-bg-01-600x181.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 7735,
+            "dimensions": [
+                1920,
+                579
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-client.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-client.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 46028,
+            "dimensions": [
+                397,
+                357
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "comma.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/comma.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 2271,
+            "dimensions": [
+                38,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-lagger.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/bg-lagger-600x309.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 38973,
+            "dimensions": [
+                1920,
+                989
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-man-with-ladder.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-man-with-ladder.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 20678,
+            "dimensions": [
+                324,
+                374
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon_02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 2488,
+            "dimensions": [
+                49,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_01.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon_01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 2491,
+            "dimensions": [
+                49,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_04.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon_04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 2294,
+            "dimensions": [
+                49,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_03.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/icon_03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 2752,
+            "dimensions": [
+                49,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "get-a-demo-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/get-a-demo-bg-600x216.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 6100,
+            "dimensions": [
+                1366,
+                491
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "new-anova-home-page-02-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/new-anova-home-page-02-bg-600x209.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 18921,
+            "dimensions": [
+                1920,
+                668
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-h-02-l.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-h-02-l.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 32978,
+            "dimensions": [
+                321,
+                396
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-h-02-r.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/image-h-02-r.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 14607,
+            "dimensions": [
+                291,
+                310
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-01-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/bg-01-1-600x281.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 16531,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "workshop-meeting.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/workshop-meeting.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 4680,
+            "dimensions": [
+                82,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "business-overview-dashboard.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/business-overview-dashboard-600x365.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 49459,
+            "dimensions": [
+                870,
+                529
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "plane-with-dot-line-with-idea-icon.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/plane-with-dot-line-with-idea-icon-600x196.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 19804,
+            "dimensions": [
+                1920,
+                627
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "right-image-top.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/right-image-top.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 23632,
+            "dimensions": [
+                493,
+                394
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "wave.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/wave.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1891,
+            "dimensions": [
+                56,
+                20
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 3727,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/02-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 2922,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/03-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 3252,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-02-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/bg-02-1-600x297.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 23788,
+            "dimensions": [
+                1920,
+                951
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "testimonial-bg-h2-1.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/testimonial-bg-h2-1-600x225.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 10232,
+            "dimensions": [
+                825,
+                309
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "profile-image.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/profile-image.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 8921,
+            "dimensions": [
+                134,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/men-userpic-set_4029815.htm#page=1&query=user+icon+avatar&position=15"
+        },
+        {
+            "filename": "1b.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/1b.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 2359,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "line02.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/line02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1704,
+            "dimensions": [
+                35,
+                4
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2a.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/2a.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 2823,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "lower-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/lower-bg-600x199.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 60743,
+            "dimensions": [
+                1920,
+                638
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "man-with-laptop.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/man-with-laptop.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 11383,
+            "dimensions": [
+                172,
+                317
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "blue-bg.png",
+            "thumbnail_url": "https:\/\/anova.radiantthemes.com\/wp-content\/uploads\/2020\/11\/blue-bg-600x150.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 209246,
+            "dimensions": [
+                1920,
+                480
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,531 @@
+{
+    "version": "0.4",
+    "title": "Contact",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "7a34818c",
+            "settings": {
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": "0",
+                    "bottom": "4",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "0",
+                    "bottom": "2",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "344105ae",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "4c394150",
+                            "settings": {
+                                "title": "Get In Touch<br>With Us",
+                                "header_size": "h1",
+                                "align_mobile": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=5dc6454"
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "fast",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "568a9c6",
+                            "settings": {
+                                "align_mobile": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "250",
+                                    "bottom": "0",
+                                    "left": "250",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_z_index": 0,
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=df407bc"
+                                },
+                                "editor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                "align": "center",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "100",
+                                    "bottom": "0",
+                                    "left": "100",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6ebdc2df",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "margin": {
+                    "unit": "em",
+                    "top": "3",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": ""
+                },
+                "content_position": "middle"
+            },
+            "elements": [
+                {
+                    "id": "50449f6a",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 49.91199999999999903366187936626374721527099609375
+                    },
+                    "elements": [
+                        {
+                            "id": "74fd8d10",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/ellipse-dot.png",
+                                    "id": 80
+                                },
+                                "_animation": "fadeInLeft",
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x_mobile": {
+                                    "unit": "%",
+                                    "size": -13,
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "unit": "px",
+                                    "size": -87,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3ceaf22d",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/contact.jpg",
+                                    "id": 232
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "200",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "image_border_radius_mobile": {
+                                    "unit": "px",
+                                    "top": "160",
+                                    "right": "25",
+                                    "bottom": "25",
+                                    "left": "25",
+                                    "isLinked": false
+                                },
+                                "_z_index": 1
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7b1aacc0",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 49.86999999999999744204615126363933086395263671875
+                    },
+                    "elements": [
+                        {
+                            "id": "6b9aeb96",
+                            "settings": {
+                                "form_name": "New Form",
+                                "form_fields": [
+                                    {
+                                        "custom_id": "field_7dd8db7",
+                                        "field_label": "Name",
+                                        "width": "50",
+                                        "_id": "7dd8db7",
+                                        "placeholder": "Name"
+                                    },
+                                    {
+                                        "custom_id": "email",
+                                        "field_type": "email",
+                                        "required": "true",
+                                        "field_label": "Email",
+                                        "width": "50",
+                                        "_id": "3ae4abf",
+                                        "placeholder": "Email"
+                                    },
+                                    {
+                                        "custom_id": "name",
+                                        "field_type": "tel",
+                                        "field_label": "Phone",
+                                        "width": "50",
+                                        "_id": "3ded373",
+                                        "placeholder": "Phone"
+                                    },
+                                    {
+                                        "custom_id": "field_4165a55",
+                                        "field_label": "Subject",
+                                        "width": "50",
+                                        "_id": "4165a55",
+                                        "placeholder": "Subject"
+                                    },
+                                    {
+                                        "custom_id": "message",
+                                        "field_type": "textarea",
+                                        "field_label": "Message",
+                                        "placeholder": "Message",
+                                        "_id": "34da3c6",
+                                        "rows": 6
+                                    }
+                                ],
+                                "input_size": "lg",
+                                "mark_required": "yes",
+                                "button_size": "lg",
+                                "step_next_label": "Next",
+                                "step_previous_label": "Previous",
+                                "button_text": "Send Message",
+                                "email_content": "[all-fields]",
+                                "email_content_2": "[all-fields]",
+                                "success_message": "The form was sent successfully.",
+                                "error_message": "An error occurred.",
+                                "required_field_message": "This field is required.",
+                                "invalid_message": "There's something wrong. The form is invalid.",
+                                "show_labels": "",
+                                "button_align": "start",
+                                "button_align_mobile": "center",
+                                "column_gap": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "row_gap": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "3",
+                                    "right": "3",
+                                    "bottom": "3",
+                                    "left": "3",
+                                    "isLinked": true
+                                },
+                                "_padding_tablet": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_background_background": "classic"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "form",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "10330da5",
+            "settings": {
+                "structure": "20",
+                "content_position": "middle",
+                "margin": {
+                    "unit": "em",
+                    "top": "8",
+                    "right": 0,
+                    "bottom": "8",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": 0,
+                    "bottom": "5",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "reverse_order_mobile": "reverse-mobile"
+            },
+            "elements": [
+                {
+                    "id": "53b91494",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "align_mobile": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "763c90d5",
+                            "settings": {
+                                "title": "Download Now",
+                                "align": "left",
+                                "align_mobile": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=9025187"
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2bfb4167",
+                            "settings": {
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "170f5f1b",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/appstore.png",
+                                    "id": 17
+                                },
+                                "align": "left",
+                                "link_to": "custom",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "_element_width": "auto"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "12f964e4",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/gplay.png",
+                                    "id": 29
+                                },
+                                "align": "left",
+                                "link_to": "custom",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "23892b5f",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "15032a25",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/app11.png",
+                                    "id": 77
+                                },
+                                "_z_index": 2
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6c596899",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/template-kit.rootlayers.com\/nusapp\/wp-content\/uploads\/sites\/17\/2021\/04\/circle-dots.png",
+                                    "id": 78
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x_end": {
+                                    "unit": "%",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "_offset_orientation_v": "end",
+                                "_offset_x_end_mobile": {
+                                    "unit": "%",
+                                    "size": 4,
+                                    "sizes": []
+                                },
+                                "_animation": "zoomIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes"
+    }
+}

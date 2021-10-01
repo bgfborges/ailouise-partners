@@ -1,0 +1,316 @@
+# Translation of RocketGenius - Gravity Forms Advanced Post Creation in Portuguese (Brazil)
+# This file is distributed under the same license as the RocketGenius - Gravity Forms Advanced Post Creation package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-01 20:44:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: RocketGenius - Gravity Forms Advanced Post Creation\n"
+
+#: class-gf-advancedpostcreation.php:2692
+msgid "Edit Post"
+msgstr "Editar post"
+
+#: class-gf-advancedpostcreation.php:2690
+msgid "View Post"
+msgstr "Ver post"
+
+#: class-gf-advancedpostcreation.php:2656
+msgid "Created Posts"
+msgstr "Posts criados"
+
+#: class-gf-advancedpostcreation.php:1708
+#: class-gf-advancedpostcreation.php:1732
+msgid "Not Available"
+msgstr "Indisponível"
+
+#: class-gf-advancedpostcreation.php:1702
+#: class-gf-advancedpostcreation.php:1726
+msgid "Not Selected"
+msgstr "Não selecionado"
+
+#: class-gf-advancedpostcreation.php:1499
+msgid "Assign terms to the post using a field value, an existing term or by adding a new term."
+msgstr "Atribua termos à postagem usando um valor de campo, um termo existente ou adicionando um novo termo."
+
+#: class-gf-advancedpostcreation.php:1413
+#: class-gf-advancedpostcreation.php:1418
+#: class-gf-advancedpostcreation.php:1603
+#: class-gf-advancedpostcreation.php:1608
+msgid "Access denied."
+msgstr "Acesso negado."
+
+#: class-gf-advancedpostcreation.php:1374
+#: class-gf-advancedpostcreation.php:1428
+msgid "Logged In User"
+msgstr "Usuário conectado"
+
+#: class-gf-advancedpostcreation.php:1348
+msgid "Add New Custom Field Name"
+msgstr "Adicionar novo nome de campo personalizado"
+
+#: class-gf-advancedpostcreation.php:1325
+msgid "Select a Custom Field Name"
+msgstr "Selecione um nome de campo personalizado"
+
+#: class-gf-advancedpostcreation.php:1169
+msgid "Custom Post Types"
+msgstr "Tipos de postagem personalizados"
+
+#: class-gf-advancedpostcreation.php:1128
+msgid "WordPress Post Types"
+msgstr "Tipos de postagem do WordPress"
+
+#: class-gf-advancedpostcreation.php:979 class-gf-advancedpostcreation.php:1648
+msgid "Add New %s"
+msgstr "Adicionar novo %s"
+
+#: class-gf-advancedpostcreation.php:965
+msgid "Assign %s"
+msgstr "Atribuir %s"
+
+#: class-gf-advancedpostcreation.php:961
+msgid "Field Value"
+msgstr "Valor do campo"
+
+#: class-gf-advancedpostcreation.php:957
+msgid "Select an Option"
+msgstr "Selecione uma opção"
+
+#: class-gf-advancedpostcreation.php:764
+msgid "Taxonomies"
+msgstr "Taxonomias"
+
+#: class-gf-advancedpostcreation.php:747
+msgid "Select file upload fields whose files should be uploaded to the media library and assigned to the post."
+msgstr "Selecione os campos de upload de arquivos cujos arquivos devem ser carregados na biblioteca de mídia e atribuídos à postagem."
+
+#: class-gf-advancedpostcreation.php:742
+msgid "Select File Upload Fields"
+msgstr "Selecionar campos de upload de arquivo"
+
+#: class-gf-advancedpostcreation.php:738 class-gf-advancedpostcreation.php:746
+msgid "Media Library"
+msgstr "Biblioteca de mídia"
+
+#: class-gf-advancedpostcreation.php:724
+msgid "Select a file upload field to use for the post's featured image. Only file upload fields limited to a single file are permitted."
+msgstr "Selecione um campo de upload de arquivo para usar na imagem em destaque da postagem. Apenas campos de upload de arquivo limitados a um único arquivo são permitidos."
+
+#: class-gf-advancedpostcreation.php:717 class-gf-advancedpostcreation.php:723
+msgid "Featured Image"
+msgstr "Imagem destacada"
+
+#: class-gf-advancedpostcreation.php:707
+msgid "Select a File Upload Field"
+msgstr "Selecione um campo de upload de arquivo"
+
+#: class-gf-advancedpostcreation.php:680
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: class-gf-advancedpostcreation.php:657
+msgid "Format"
+msgstr "Formato"
+
+#: class-gf-advancedpostcreation.php:640
+msgid "Map form values to post meta using an existing meta key or defining a new one."
+msgstr "Mapeie os valores do formulário para postar uma meta usando uma meta-chave existente ou definindo uma nova."
+
+#: class-gf-advancedpostcreation.php:635
+msgid "Custom Field Value"
+msgstr "Valor do campo personalizado"
+
+#: class-gf-advancedpostcreation.php:629
+msgid "Custom Field Name"
+msgstr "Campo de nome personalizado"
+
+#: class-gf-advancedpostcreation.php:624 class-gf-advancedpostcreation.php:639
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: class-gf-advancedpostcreation.php:619
+msgid "Define the post's content. File upload field merge tags used within the post content will automatically have their files uploaded to the media library and associated with the post."
+msgstr "Defina o conteúdo da postagem. As tags de mesclagem de campos de upload de arquivos usadas no conteúdo da postagem terão seus arquivos automaticamente carregados na biblioteca de mídia e associados à postagem."
+
+#: class-gf-advancedpostcreation.php:610
+msgid "Content"
+msgstr "Conteúdo"
+
+#: class-gf-advancedpostcreation.php:602
+msgid "Title"
+msgstr "Título"
+
+#: class-gf-advancedpostcreation.php:598 class-gf-advancedpostcreation.php:618
+msgid "Post Content"
+msgstr "Conteúdo do post"
+
+#: class-gf-advancedpostcreation.php:590
+msgid "Allow Trackbacks and Pingbacks"
+msgstr "Permitir Trackbacks e Pingbacks"
+
+#: class-gf-advancedpostcreation.php:586
+msgid "Allow Comments"
+msgstr "Permitir comentários"
+
+#: class-gf-advancedpostcreation.php:582
+msgid "Discussion"
+msgstr "Discussão"
+
+#: class-gf-advancedpostcreation.php:576
+msgid "Select the user to be assigned to the post."
+msgstr "Selecione o usuário a ser atribuído à postagem."
+
+#: class-gf-advancedpostcreation.php:575
+msgid "Post Author"
+msgstr "Autor do Post"
+
+#: class-gf-advancedpostcreation.php:568
+msgid "Author"
+msgstr "Autor"
+
+#: class-gf-advancedpostcreation.php:563
+msgid "Define the post publish date. Custom date & time can be a specific date and time or a relative time (e.g. \"today\", \"next week\")."
+msgstr "Defina a data de publicação. Data e hora personalizadas podem ser uma data e hora específicas ou uma hora relativa (por exemplo, \"hoje\", \"na próxima semana\")."
+
+#: class-gf-advancedpostcreation.php:562
+msgid "Post Date"
+msgstr "Data de postagem"
+
+#: class-gf-advancedpostcreation.php:555
+msgid "Date"
+msgstr "Data"
+
+#: class-gf-advancedpostcreation.php:550
+msgid "Select the status for the post. If published status is selected and the post date is in the future, it will automatically be changed to scheduled."
+msgstr "Selecione o status para a postagem. Se o status publicado for selecionado e a data de postagem estiver no futuro, ela será alterada automaticamente para agendada."
+
+#: class-gf-advancedpostcreation.php:549
+msgid "Post Status"
+msgstr "Status do Post"
+
+#: class-gf-advancedpostcreation.php:542 class-gf-advancedpostcreation.php:1683
+msgid "Status"
+msgstr "Status"
+
+#: class-gf-advancedpostcreation.php:537
+msgid "Select one of the defined WordPress post types for the post."
+msgstr "Selecione um dos tipos de postagem WordPress definidos para a postagem."
+
+#: class-gf-advancedpostcreation.php:536 class-gf-advancedpostcreation.php:1682
+msgid "Post Type"
+msgstr "Tipo de post"
+
+#: class-gf-advancedpostcreation.php:529
+msgid "Type"
+msgstr "Tipo"
+
+#: class-gf-advancedpostcreation.php:524
+msgid "Users will be required to enter the chosen post password to view the post content"
+msgstr "Os usuários deverão digitar a senha de postagem escolhida para visualizar o conteúdo da postagem"
+
+#: class-gf-advancedpostcreation.php:523
+msgid "Post Password"
+msgstr "Senha de postagem"
+
+#: class-gf-advancedpostcreation.php:517
+msgid "Password"
+msgstr "Senha"
+
+#: class-gf-advancedpostcreation.php:512
+msgid "Visibility determines who can read the post."
+msgstr "Visibilidade determina quem pode ler a postagem."
+
+#: class-gf-advancedpostcreation.php:511
+msgid "Post Visibility"
+msgstr "Visibilidade do post"
+
+#: class-gf-advancedpostcreation.php:505
+msgid "Password Protected"
+msgstr "Protegida por senha"
+
+#: class-gf-advancedpostcreation.php:501
+msgid "Public"
+msgstr "Público"
+
+#: class-gf-advancedpostcreation.php:493
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: class-gf-advancedpostcreation.php:489
+msgid "Post Settings"
+msgstr "Configuração dos posts"
+
+#: class-gf-advancedpostcreation.php:475
+msgid "Custom Date & Time"
+msgstr "Data e hora personalizadas"
+
+#: class-gf-advancedpostcreation.php:471
+msgid "Date & Time Fields"
+msgstr "Campos de data e hora"
+
+#: class-gf-advancedpostcreation.php:467
+msgid "Entry Date"
+msgstr "Data da Entrada"
+
+#: class-gf-advancedpostcreation.php:423
+msgid "When conditional logic is enabled, form submissions will only be created when the condition is met. When disabled, all form submissions will be created."
+msgstr "Quando a lógica condicional estiver ativada, os envios de formulário serão criados apenas quando a condição for atendida. Quando desativado, todos os envios de formulário serão criados."
+
+#: class-gf-advancedpostcreation.php:419
+msgid "Create if"
+msgstr "Crie se"
+
+#: class-gf-advancedpostcreation.php:418
+msgid "Enable"
+msgstr "Habilitar"
+
+#: class-gf-advancedpostcreation.php:417 class-gf-advancedpostcreation.php:422
+msgid "Conditional Logic"
+msgstr "Condição lógica"
+
+#: class-gf-advancedpostcreation.php:402
+msgid "Action"
+msgstr "Ação"
+
+#: class-gf-advancedpostcreation.php:397
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr "Digite um nome de feed para identificar esta configuração com exclusividade."
+
+#: class-gf-advancedpostcreation.php:396 class-gf-advancedpostcreation.php:630
+#: class-gf-advancedpostcreation.php:1681
+msgid "Name"
+msgstr "Nome"
+
+#: class-gf-advancedpostcreation.php:390
+msgid "Feed Name"
+msgstr "Nome do feed"
+
+#: class-gf-advancedpostcreation.php:355
+msgid "Select a User"
+msgstr "Selecione um usuário"
+
+#: class-gf-advancedpostcreation.php:233
+msgid "Create post only when payment is received."
+msgstr "Criar post apenas quando o pagamento for recebido."
+
+#. Author of the plugin
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#. Description of the plugin
+msgid "Allows you to create new posts through Gravity Forms."
+msgstr "Permite criar novas postagens através do Gravity Forms."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://gravityforms.com"
+msgstr "https://gravityforms.com"
+
+#. Plugin Name of the plugin
+msgid "Gravity Forms Advanced Post Creation Add-On"
+msgstr "Complemento de criação avançada de postagens do Gravity Forms"
