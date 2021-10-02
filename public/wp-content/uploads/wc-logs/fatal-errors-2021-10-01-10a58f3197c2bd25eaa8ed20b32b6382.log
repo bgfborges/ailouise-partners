@@ -1,0 +1,18 @@
+2021-10-01T14:09:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_donation_content(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 3 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:5
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): create_donation_content(4653)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/gravityforms/gravityforms.php(6815): do_action('gform_advancedp...', 4653, Array, Array, Array, NULL, NULL, NULL, NULL, NULL, NULL)
+#4 /var/www/html/wp-content/plugins/gravityformsadvancedpostcreation/class-gf-advancedpostcreation.php(1943): gf_do_action('gform_advancedp...', 4653, Array, Array, Array)
+#5 /var/www/html/wp-content/plugins/gravityformsadvancedpostcreation/class-gf-advancedpostcreation.php(1795): GF_Advanced_Post_Creation->, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 5
+
+2021-10-01T14:11:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_donation_content(), 1 passed in /var/www/html/wp-includes/class-wp-hook.php on line 305 and exactly 3 expected in /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php:5
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(305): create_donation_content(4655)
+#1 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/gravityforms/gravityforms.php(6815): do_action('gform_advancedp...', 4655, Array, Array, Array, NULL, NULL, NULL, NULL, NULL, NULL)
+#4 /var/www/html/wp-content/plugins/gravityformsadvancedpostcreation/class-gf-advancedpostcreation.php(1943): gf_do_action('gform_advancedp...', 4655, Array, Array, Array)
+#5 /var/www/html/wp-content/plugins/gravityformsadvancedpostcreation/class-gf-advancedpostcreation.php(1795): GF_Advanced_Post_Creation->, em /var/www/html/wp-content/themes/child-hello-elementor/woocommerce/lu-projects/lu_orders_associate_product.php, na linha 5
+
