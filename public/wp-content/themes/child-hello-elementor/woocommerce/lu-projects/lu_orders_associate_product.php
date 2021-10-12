@@ -3,52 +3,65 @@
 
 add_action("gform_advancedpostcreation_post_after_creation", "create_donation_content", 10, 4);
 function create_donation_content($post_id, $feed, $entry, $form ){
-	//getting post id
 
-	// Checkboxes field id.
+	// The ID of your checkbox field.
     $field_id = 12;
 
-    // Get field object.
-    $field = GFAPI::get_field( $form, $field_id );
+    /** @var GF_Field $field */
+    $checkbox_field = GFAPI::get_field( $form, $field_id );
+    $value = $checkbox_field->get_value_submission( array() );
 
-    if ( $field->type == 'checkbox' ) {
-        // Get a comma separated list of checkboxes checked
-        $checked = $field->get_value_export( $entry );
+	$array = array();
 
-        // Convert to array.
-        // $values = explode( ', ', $checked );
-        $values = implode("|",$checked);
-
-		// Replace my_custom_field_key with your custom field meta key.
-		update_post_meta( $post_id, 'lu_base-price-defined-in-the-date', $values );
-    }
-
-	return;
-
-	if( $entry['12.1'] ){
+	if( !empty($value['12.1'] ) ){
+		$array['12.1'] = $value['12.1'];
 		update_post_meta($post_id, 'lu_landing-page-standard', 'on');
 	}
-	if( $entry['12.2'] ){
+
+	if( !empty($value['12.2'] ) ){
+		$array['12.2'] = $value['12.2'];
 		update_post_meta($post_id, 'lu_institutional-website-standard', 'on');
 	}
-	if( $entry['12.3'] ){
+
+	if( !empty($value['12.3'] ) ){
+		$array['12.3'] = $value['12.3'];
 		update_post_meta($post_id, 'lu_ecommerce-standard', 'on');
 	}
 
-	$comission_amount = 1000;
+	$comission_amount = $_POST['input_13'];
+	$comission_amount = str_replace('R$', '', $comission_amount);
+	$comission_amount = str_replace('.', '', $comission_amount);
+	$comission_amount = str_replace(',', '.', $comission_amount);
+	$comission_amount = intval( $comission_amount );
+
 	if( !$comission_amount || $comission_amount < 0 ) return;
+
+	// $client_name = $_POST['input_1'];
+	// if( $client_name ){
+	// 	update_post_meta($post_id, 'lu_client-name', $client_name);
+	// }
+
+	// $client_email = $_POST['input_3'];
+	// if( $client_email ){
+	// 	update_post_meta($post_id, 'lu_client-email', $client_email);
+	// }
+
+	// $partner_info = $_POST['input_18'];
+	// if( $partner_info ){
+	// 	update_post_meta($post_id, 'lu_info-from-partner', $partner_info);
+	// }
 
 	$choosen_products = array(
 		'landing' => array(
-			'active' 	=> 'on',
+			'active' 	=> $array['12.1'] ? 'on' : null,
 			'product_id' => 218,
 		),
 		'institutional' => array(
-			'active' 	=> 'on',
+			'active' 	=> $array['12.2'] ? 'on' : null,
 			'product_id' => 3621,
 		),
 		'ecommerce' => array(
-			'active' 	=> 'on',
+			'active' 	=> $array['12.3'] ? 'on' : null,
 			'product_id' => 3623,
 		),
 	);

@@ -1,0 +1,20 @@
+{
+    "name": "iqonic/graphina",
+    "description": "Your ultimate charts and graphs solution to enhance visual effects. Create versatile, advanced and interactive charts on your website.",
+    "authors": [
+        {
+            "name": "Milan6190",
+            "email": "hello@iqonic.com"
+        }
+    ],
+    "require": {
+      "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {"GraphinaElementor\\": "./elementor"},
+        "files": [
+            "./utils/graphina_chart_helper.php",
+            "./utils/graphina_general_helper.php"
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"post_title": "Static Page Booking Form",
+	"post_content": "<!-- wp:jet-forms\/hidden-field {\"name\":\"page_id\"} \/-->\n\n<!-- wp:jet-forms\/select-field {\"field_options_from\":\"posts\",\"field_options_post_type\":\"service-post-type\",\"label\":\"Select service\",\"name\":\"service_id\",\"className\":\" jet-sm-gb-wrapper jet-sm-gb-e0283a4d-0ca9-4eac-914f-22181d03ba2e\",\"blockID\":\"jet-sm-gb-e0283a4d-0ca9-4eac-914f-22181d03ba2e\"} \/-->\n\n<!-- wp:jet-forms\/appointment-date {\"appointment_service_field\":\"form_field\",\"appointment_form_field\":\"service_id\",\"name\":\"appointment_date\",\"className\":\" jet-sm-gb-wrapper jet-sm-gb-05dfd719-a60d-4759-abd8-3d8b1f71293f\",\"blockID\":\"jet-sm-gb-05dfd719-a60d-4759-abd8-3d8b1f71293f\"} \/-->\n\n<!-- wp:jet-forms\/text-field {\"field_type\":\"email\",\"label\":\"User e-mail\",\"name\":\"user_email\",\"className\":\" jet-sm-gb-wrapper jet-sm-gb-ddb95c9f-0fa0-44e2-b518-6eaf3cd3f240\",\"blockID\":\"jet-sm-gb-ddb95c9f-0fa0-44e2-b518-6eaf3cd3f240\"} \/-->\n\n<!-- wp:jet-forms\/submit-field \/-->",
+	"meta_input": {
+		"_jf_actions": "[{\"type\":\"insert_appointment\",\"id\":7282,\"settings\":{\"insert_appointment\":{\"appointment_service_field\":\"service_id\",\"appointment_date_field\":\"appointment_date\",\"appointment_email_field\":\"user_email\"}}}]"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"post_title": "Single Service Booking Form",
+	"post_content": "<!-- wp:jet-forms\/hidden-field {\"name\":\"service_id\"} \/-->\n\n<!-- wp:jet-forms\/text-field {\"field_type\":\"email\",\"label\":\"User e-mail\",\"name\":\"user_email\",\"className\":\" jet-sm-gb-wrapper jet-sm-gb-8ac0fc85-0c2b-46a3-aca0-7c152780d671\",\"blockID\":\"jet-sm-gb-8ac0fc85-0c2b-46a3-aca0-7c152780d671\"} \/-->\n\n<!-- wp:jet-forms\/appointment-date {\"appointment_service_field\":\"current_post_id\",\"name\":\"appointment_date\",\"className\":\" jet-sm-gb-wrapper jet-sm-gb-d215aaba-c4f6-465c-bb65-c1a1e98e6b6f\",\"blockID\":\"jet-sm-gb-d215aaba-c4f6-465c-bb65-c1a1e98e6b6f\"} \/-->\n\n<!-- wp:jet-forms\/submit-field \/-->",
+	"meta_input": {
+		"_jf_actions": "[{\"type\":\"insert_appointment\",\"id\":8591,\"settings\":{\"insert_appointment\":{\"appointment_service_field\":\"service_id\",\"appointment_provider_field\":\"_manual_input\",\"appointment_date_field\":\"appointment_date\",\"appointment_email_field\":\"user_email\"}}}]"
+	}
+}

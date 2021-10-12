@@ -1,0 +1,85 @@
+{
+	"apiVersion": 2,
+	"name": "jet-forms/appointment-date",
+	"category": "jet-form-builder-fields",
+	"icon": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"0.375\" y=\"3\" width=\"15.75\" height=\"14.25\" rx=\"0.625\" fill=\"white\" stroke=\"#162B40\" stroke-width=\"0.75\"/>\n<path d=\"M1 3H15.5C15.8452 3 16.125 3.27982 16.125 3.625V6H0.375V3.625C0.375 3.27982 0.654822 3 1 3Z\" fill=\"white\" stroke=\"#162B40\" stroke-width=\"0.75\"/>\n<rect x=\"12\" y=\"10.2\" width=\"11.625\" height=\"10.8\" rx=\"0.625\" fill=\"white\" stroke=\"#162B40\" stroke-width=\"0.75\"/>\n<path d=\"M12 10.75C12 10.4048 12.2798 10.125 12.625 10.125H23C23.3452 10.125 23.625 10.4048 23.625 10.75V13.5H12V10.75Z\" fill=\"#4AF3BA\" stroke=\"#162B40\" stroke-width=\"0.75\"/>\n<path d=\"M14.4808 9.47596C14.4808 9.2131 14.6939 9 14.9567 9C15.2196 9 15.4327 9.2131 15.4327 9.47596V10.999C15.4327 11.2619 15.2196 11.475 14.9567 11.475C14.6939 11.475 14.4808 11.2619 14.4808 10.999V9.47596Z\" fill=\"#162B40\"/>\n<path d=\"M20.1923 9.47596C20.1923 9.2131 20.4054 9 20.6683 9C20.9311 9 21.1442 9.2131 21.1442 9.47596V10.999C21.1442 11.2619 20.9311 11.475 20.6683 11.475C20.4054 11.475 20.1923 11.2619 20.1923 10.999V9.47596Z\" fill=\"#162B40\"/>\n<rect x=\"2.625\" y=\"7.875\" width=\"11.25\" height=\"0.75\" rx=\"0.375\" fill=\"#162B40\"/>\n<rect x=\"1.875\" y=\"4.125\" width=\"0.75\" height=\"0.75\" rx=\"0.375\" fill=\"#162B40\"/>\n<rect x=\"3\" y=\"4.125\" width=\"0.75\" height=\"0.75\" rx=\"0.375\" fill=\"#162B40\"/>\n<rect x=\"4.125\" y=\"4.125\" width=\"0.75\" height=\"0.75\" rx=\"0.375\" fill=\"#162B40\"/>\n<rect x=\"2.625\" y=\"12.375\" width=\"7.5\" height=\"0.75\" rx=\"0.375\" fill=\"#162B40\"/>\n<path d=\"M2.625 10.5C2.625 10.2929 2.79289 10.125 3 10.125H9.75C9.95711 10.125 10.125 10.2929 10.125 10.5C10.125 10.7071 9.95711 10.875 9.75 10.875H3C2.79289 10.875 2.625 10.7071 2.625 10.5Z\" fill=\"#162B40\"/>\n<path d=\"M2.625 15C2.625 14.7929 2.79289 14.625 3 14.625H9.75C9.95711 14.625 10.125 14.7929 10.125 15C10.125 15.2071 9.95711 15.375 9.75 15.375H3C2.79289 15.375 2.625 15.2071 2.625 15Z\" fill=\"#162B40\"/>\n</svg>\n",
+	"keywords": [
+		"field",
+		"date",
+		"appointment-date",
+		"booking",
+		"appointment",
+		"calendar"
+	],
+	"textdomain": "jet-form-builder",
+	"supports": {
+		"customClassName": false,
+		"html": false
+	},
+	"attributes": {
+		"appointment_service_field": {
+			"type": "string",
+			"default": ""
+		},
+		"appointment_form_field": {
+			"type": "string",
+			"default": ""
+		},
+		"appointment_service_id": {
+			"type": "string",
+			"default": ""
+		},
+		"appointment_provider_field": {
+			"type": "string",
+			"default": ""
+		},
+		"appointment_provider_form_field": {
+			"type": "string",
+			"default": ""
+		},
+		"appointment_provider_id": {
+			"type": "string",
+			"default": ""
+		},
+		"label": {
+			"type": "string",
+			"default": ""
+		},
+		"name": {
+			"type": "string",
+			"default": "field_name"
+		},
+		"desc": {
+			"type": "string",
+			"default": ""
+		},
+		"default": {
+			"type": "string",
+			"default": ""
+		},
+		"required": {
+			"type": "boolean",
+			"default": false
+		},
+		"add_prev": {
+			"type": "boolean",
+			"default": false
+		},
+		"prev_label": {
+			"type": "string",
+			"default": ""
+		},
+		"visibility": {
+			"type": "string",
+			"default": ""
+		},
+		"class_name": {
+			"type": "string",
+			"default": ""
+		},
+		"className": {
+			"type": "string",
+			"default": ""
+		}
+	}
+}

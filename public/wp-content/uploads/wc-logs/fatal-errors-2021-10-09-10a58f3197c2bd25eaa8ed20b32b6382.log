@@ -1,0 +1,10 @@
+2021-10-09T18:04:37+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on bool in /var/www/html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:285
+Stack trace:
+#0 /var/www/html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(166): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /var/www/html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /var/www/html/wp-includes/class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 /var/www/html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /var/www/h, em /var/www/html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php, na linha 285
+

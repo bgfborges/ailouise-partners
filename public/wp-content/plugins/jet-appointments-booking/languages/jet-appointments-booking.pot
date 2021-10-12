@@ -1,0 +1,1618 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jet Appointments Booking\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-21 17:04+0300\n"
+"PO-Revision-Date: 2018-01-03 12:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: Croco\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;_ex:1,2c;_n:1,2;_nx:4c,1,2;_n_noop:1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: cherry-framework\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: assets/js/admin/appointments.js:115
+msgid "List"
+msgstr ""
+
+#: assets/js/admin/appointments.js:119
+msgid "Calendar"
+msgstr ""
+
+#: assets/js/admin/appointments.js:123
+msgid "Timeline"
+msgstr ""
+
+#: assets/js/admin/appointments.js:284 assets/js/admin/settings.js:376
+msgid "Done!"
+msgstr ""
+
+#: assets/js/admin/appointments.js:562 assets/js/admin/appointments.js:1188
+#: includes/admin/settings.php:197
+#: includes/admin/settings/pages/appointment-settings-base.php:86
+#: includes/form.php:561 templates/admin/form/edit-fields.php:119
+#: templates/admin/form/edit-fields.php:143
+msgid "Select..."
+msgstr ""
+
+#: assets/js/admin/appointments.js:792
+msgid "15 minutes"
+msgstr ""
+
+#: assets/js/admin/appointments.js:796
+msgid "30 minutes"
+msgstr ""
+
+#: assets/js/admin/appointments.js:800
+msgid "1 hours"
+msgstr ""
+
+#: assets/js/admin/appointments.js:1129
+msgid "No service assigned!"
+msgstr ""
+
+#: assets/js/admin/appointments.js:1138
+msgid "No provider assigned!"
+msgstr ""
+
+#: assets/js/admin/appointments.js:1178
+#, javascript-format
+msgid "Empty fields: %s"
+msgstr ""
+
+#: assets/js/admin/settings.js:60
+msgid "The slot duration cannot be less than one minute!"
+msgstr ""
+
+#: assets/js/admin/settings.js:116
+msgid "Date is not correct"
+msgstr ""
+
+#: assets/js/admin/settings.js:228
+msgid "Time is not correct"
+msgstr ""
+
+#: assets/js/admin/settings.js:406 assets/js/admin/settings.js:593
+msgid ""
+"You cannot use the \"-\" or \"space\" character in the table name, it was "
+"automatically changed to the \"_\" character!"
+msgstr ""
+
+#: assets/js/admin/settings.js:416
+msgid "This column already exists in the table!"
+msgstr ""
+
+#: assets/js/admin/settings.js:426
+msgid ""
+"Are you sure? If you change or remove any columns, all data stored in this "
+"columns will be lost!"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/base-vue-meta-box.php:109
+#: templates/admin/jet-apb-settings/settings-working-hours.php:34
+#: templates/admin/jet-apb-settings/settings-working-hours.php:114
+msgid "Slot Duration"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/base-vue-meta-box.php:115
+msgid "Buffer Before Slot"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/base-vue-meta-box.php:121
+msgid "Buffer After Slot"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/base-vue-meta-box.php:293
+msgid "Select Time"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/base-vue-meta-box.php:309
+msgid "Access denied"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/base-vue-meta-box.php:317
+msgid "Empty data or post ID not found!"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/base-vue-meta-box.php:325
+msgid "Failed to save data!"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/base-vue-meta-box.php:330
+#: includes/admin/settings.php:319
+msgid "Settings saved!"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/providers-meta.php:70
+#: includes/admin/cpt-meta-box/services-meta.php:92
+msgid "Custom Schedule"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/services-meta.php:50
+#: includes/admin/cpt-meta-box/services-meta.php:76
+msgid "Appointments Settings"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/services-meta.php:57
+msgid "Price per slot"
+msgstr ""
+
+#: includes/admin/cpt-meta-box/services-meta.php:69
+msgid "Capacity"
+msgstr ""
+
+#: includes/admin/dashboard.php:157 includes/admin/dashboard.php:158
+#: templates/admin/jet-apb-appointments/appointments-timeline.php:52
+msgid "Services"
+msgstr ""
+
+#: includes/admin/dashboard.php:173 includes/admin/dashboard.php:174
+msgid "Providers"
+msgstr ""
+
+#: includes/admin/dashboard.php:187 includes/admin/dashboard.php:188
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/dashboard.php:202 includes/admin/dashboard.php:203
+#: includes/admin/settings/pages/set-up.php:33
+msgid "Set Up"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:28
+#: templates/admin/jet-apb-appointments/appointments.php:3
+msgid "Appointments"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:84
+msgid "ID"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:85 includes/listings.php:149
+msgid "User ID"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:86
+msgid "User e-mail"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:87
+msgid "User Name"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:88
+#: includes/admin/pages/appointments.php:123
+msgid "Provider"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:89
+#: includes/admin/pages/appointments.php:117
+#: includes/wc-order-details-builder.php:315
+msgid "Service"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:90
+#: includes/admin/pages/appointments.php:135 includes/listings.php:171
+#: includes/wc-order-details-builder.php:319
+#: templates/admin/common/wc-details-builder.php:26
+#: templates/admin/jet-apb-appointments/appointments-timeline.php:5
+msgid "Date"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:91
+msgid "Start Time"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:92 includes/wc-integration.php:393
+msgid "End Time"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:93
+#: includes/admin/pages/appointments.php:129 includes/listings.php:161
+msgid "Status"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:94
+msgid "Related Order"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:95
+msgid "Phone"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:96
+msgid "Comments"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:97
+msgid "Actions"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:136
+#: includes/admin/pages/appointments.php:143
+#: templates/admin/jet-apb-appointments/appointments-filter.php:22
+#: templates/admin/jet-apb-settings/settings-tools.php:12
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/pages/appointments.php:142
+msgid "Search"
+msgstr ""
+
+#: includes/admin/settings.php:150
+#: templates/admin/jet-apb-settings/settings-labels.php:19
+msgid "Monday"
+msgstr ""
+
+#: includes/admin/settings.php:151
+#: templates/admin/jet-apb-settings/settings-labels.php:27
+msgid "Tuesday"
+msgstr ""
+
+#: includes/admin/settings.php:152
+#: templates/admin/jet-apb-settings/settings-labels.php:35
+msgid "Wednesday"
+msgstr ""
+
+#: includes/admin/settings.php:153
+#: templates/admin/jet-apb-settings/settings-labels.php:43
+msgid "Thursday"
+msgstr ""
+
+#: includes/admin/settings.php:154
+#: templates/admin/jet-apb-settings/settings-labels.php:51
+msgid "Friday"
+msgstr ""
+
+#: includes/admin/settings.php:155
+#: templates/admin/jet-apb-settings/settings-labels.php:59
+msgid "Saturday"
+msgstr ""
+
+#: includes/admin/settings.php:156
+#: templates/admin/jet-apb-settings/settings-labels.php:11
+msgid "Sunday"
+msgstr ""
+
+#: includes/admin/settings.php:161
+msgid "Slot"
+msgstr ""
+
+#: includes/admin/settings.php:165
+msgid "Free Time"
+msgstr ""
+
+#: includes/admin/settings.php:169
+msgid "Range"
+msgstr ""
+
+#: includes/admin/settings.php:173
+msgid "Recurring"
+msgstr ""
+
+#: includes/admin/settings.php:179
+msgid "Day"
+msgstr ""
+
+#: includes/admin/settings.php:183
+msgid "Week"
+msgstr ""
+
+#: includes/admin/settings.php:187
+msgid "Month"
+msgstr ""
+
+#: includes/admin/settings.php:191
+msgid "Year"
+msgstr ""
+
+#: includes/admin/settings/manager.php:88
+msgid "JetAppointments"
+msgstr ""
+
+#: includes/admin/settings/pages/advanced.php:27
+msgid "Advanced"
+msgstr ""
+
+#: includes/admin/settings/pages/general.php:27
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings/pages/labels.php:27
+msgid "Labels"
+msgstr ""
+
+#: includes/admin/settings/pages/tools.php:27
+msgid "Tools"
+msgstr ""
+
+#: includes/admin/settings/pages/working-hours.php:27
+msgid "Working Hours"
+msgstr ""
+
+#: includes/elementor-integration/manager.php:17
+msgid "Jet Appointments Booking: add booking to Google calendar"
+msgstr ""
+
+#: includes/form-widget.php:23
+msgid "Appointment Calendar"
+msgstr ""
+
+#: includes/form-widget.php:32
+msgid "Calendar Width"
+msgstr ""
+
+#: includes/form-widget.php:50 includes/form-widget.php:397
+msgid "Padding"
+msgstr ""
+
+#: includes/form-widget.php:62 includes/form-widget.php:410
+msgid "Margin"
+msgstr ""
+
+#: includes/form-widget.php:82
+msgid "Header"
+msgstr ""
+
+#: includes/form-widget.php:90
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/form-widget.php:101
+msgid "Header Text Color"
+msgstr ""
+
+#: includes/form-widget.php:120
+msgid "Arrows default color"
+msgstr ""
+
+#: includes/form-widget.php:131
+msgid "Arrows hover color"
+msgstr ""
+
+#: includes/form-widget.php:142
+msgid "Weekdays/Names"
+msgstr ""
+
+#: includes/form-widget.php:159 includes/form-widget.php:215
+#: includes/form-widget.php:326 includes/form-widget.php:357
+msgid "Color"
+msgstr ""
+
+#: includes/form-widget.php:170 includes/form-widget.php:260
+#: includes/form-widget.php:337 includes/form-widget.php:368
+msgid "Background Color"
+msgstr ""
+
+#: includes/form-widget.php:181 includes/form-widget.php:271
+msgid "Vertical Gap"
+msgstr ""
+
+#: includes/form-widget.php:198
+msgid "Weekdays/Dates"
+msgstr ""
+
+#: includes/form-widget.php:227
+msgid "Hover Color"
+msgstr ""
+
+#: includes/form-widget.php:238
+msgid "Active Color"
+msgstr ""
+
+#: includes/form-widget.php:249
+msgid "Today Color"
+msgstr ""
+
+#: includes/form-widget.php:288
+msgid "Slots"
+msgstr ""
+
+#: includes/form-widget.php:297
+msgid "Container Padding"
+msgstr ""
+
+#: includes/form-widget.php:319
+msgid "Normal"
+msgstr ""
+
+#: includes/form-widget.php:350
+msgid "Active"
+msgstr ""
+
+#: includes/form-widget.php:379
+msgid "Border Color"
+msgstr ""
+
+#: includes/form-widget.php:423
+msgid "Border"
+msgstr ""
+
+#: includes/form-widget.php:432
+msgid "Border Radius"
+msgstr ""
+
+#: includes/form-widget.php:444
+msgid "Slots Close Button Color"
+msgstr ""
+
+#: includes/form-widget.php:455
+msgid "Slots Close Button Hover Color"
+msgstr ""
+
+#: includes/form-widget.php:466
+msgid "Close Button Size"
+msgstr ""
+
+#: includes/form-widget.php:487
+msgid "Close Button Vertical Position"
+msgstr ""
+
+#: includes/form-widget.php:508
+msgid "Close Button Horizontal Position"
+msgstr ""
+
+#: includes/form.php:122
+msgid "Appointment Macros:"
+msgstr ""
+
+#: includes/form.php:125
+msgid "Name of the appointment service."
+msgstr ""
+
+#: includes/form.php:128
+msgid "Name of the appointment provider."
+msgstr ""
+
+#: includes/form.php:131
+msgid "Link of the appointment service."
+msgstr ""
+
+#: includes/form.php:134
+msgid "Link of the appointment provider."
+msgstr ""
+
+#: includes/form.php:137
+#, php-format
+msgid ""
+"Displays the date and time the appointment started. You can set the format "
+"for the date. %1$sRead more%2$s about the time format. For example: %3$s"
+"%%appointment_start|format_date(F j, Y g:i)%%%4$s"
+msgstr ""
+
+#: includes/form.php:140
+msgid ""
+"Displays the date and time the appointment end. Also accepts date format."
+msgstr ""
+
+#: includes/form.php:432
+msgid "Insert appointment"
+msgstr ""
+
+#: includes/form.php:469
+msgid "Appointment date"
+msgstr ""
+
+#: includes/form.php:470
+msgid "Appointment provider"
+msgstr ""
+
+#: includes/form.php:817
+msgid "Please, select the service before"
+msgstr ""
+
+#: includes/form.php:818
+msgid "Please, select the provider before"
+msgstr ""
+
+#: includes/form.php:819
+msgid "Please set service field for current calendar"
+msgstr ""
+
+#: includes/google-calendar.php:92 includes/google-calendar.php:98
+msgid "Booking ID not found in the request"
+msgstr ""
+
+#: includes/google-calendar.php:92 includes/google-calendar.php:98
+#: includes/google-calendar.php:104 includes/google-calendar.php:110
+msgid "Error"
+msgstr ""
+
+#: includes/google-calendar.php:104
+msgid "Booking not found in the database"
+msgstr ""
+
+#: includes/google-calendar.php:110
+msgid "Can`t build add to calendar URL"
+msgstr ""
+
+#: includes/google-calendar.php:129
+#, php-format
+msgid "Your appointment at \"%1$s\" with %2$s - %3$s "
+msgstr ""
+
+#: includes/listings.php:122
+msgid "Any status"
+msgstr ""
+
+#: includes/listings.php:127
+msgid "Appointments Query"
+msgstr ""
+
+#: includes/listings.php:134
+msgid "User"
+msgstr ""
+
+#: includes/listings.php:138
+msgid "All"
+msgstr ""
+
+#: includes/listings.php:139
+msgid "Current User"
+msgstr ""
+
+#: includes/listings.php:140
+msgid "Specific User ID"
+msgstr ""
+
+#: includes/listings.php:141
+msgid "Queried User"
+msgstr ""
+
+#: includes/listings.php:175
+msgid "Any"
+msgstr ""
+
+#: includes/listings.php:176
+msgid "Future appointments"
+msgstr ""
+
+#: includes/listings.php:177
+msgid "Past appointments"
+msgstr ""
+
+#: includes/listings.php:178
+msgid "After date"
+msgstr ""
+
+#: includes/listings.php:179
+msgid "Up to date"
+msgstr ""
+
+#: includes/listings.php:187
+msgid "Custom date"
+msgstr ""
+
+#: includes/listings.php:349
+msgid "User Appointments"
+msgstr ""
+
+#: includes/listings.php:371 includes/wc-integration.php:548
+msgid "Appointment"
+msgstr ""
+
+#: includes/plugin.php:53
+msgid ""
+"<b>WARNING!</b> <b>JetAppointmentsBooking</b> plugin requires <b>JetEngine</"
+"b> plugin to work properly!"
+msgstr ""
+
+#: includes/plugin.php:132
+msgid "Go to settings"
+msgstr ""
+
+#: includes/rest-api/endpoint-add-appointment.php:30
+msgid "The appointment could not be added."
+msgstr ""
+
+#: includes/rest-api/endpoint-add-appointment.php:59
+msgid "Appointment time already taken"
+msgstr ""
+
+#: includes/rest-api/endpoint-add-appointment.php:67
+#, php-format
+msgid "Success! New appointment ID:%s has been added"
+msgstr ""
+
+#: includes/rest-api/endpoint-date-slots.php:30
+msgid "No available slots"
+msgstr ""
+
+#: includes/rest-api/endpoint-delete-appointment.php:30
+msgid "Appointment ID is not found in request"
+msgstr ""
+
+#: includes/rest-api/endpoint-update-appointment.php:57
+msgid "No data to update"
+msgstr ""
+
+#: includes/set-up.php:229
+msgid "Booking Form"
+msgstr ""
+
+#: includes/set-up.php:236
+msgid "Single Service Booking Form"
+msgstr ""
+
+#: includes/set-up.php:250
+msgid "Static Page Booking Form"
+msgstr ""
+
+#: includes/statuses.php:16
+msgctxt "Order status"
+msgid "Pending payment"
+msgstr ""
+
+#: includes/statuses.php:17
+msgctxt "Order status"
+msgid "Processing"
+msgstr ""
+
+#: includes/statuses.php:18
+msgctxt "Order status"
+msgid "On hold"
+msgstr ""
+
+#: includes/statuses.php:19
+msgctxt "Order status"
+msgid "Completed"
+msgstr ""
+
+#: includes/statuses.php:20
+msgctxt "Order status"
+msgid "Cancelled"
+msgstr ""
+
+#: includes/statuses.php:21
+msgctxt "Order status"
+msgid "Refunded"
+msgstr ""
+
+#: includes/statuses.php:22
+msgctxt "Order status"
+msgid "Failed"
+msgstr ""
+
+#: includes/updater/changelog.php:129
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/updater/changelog.php:131
+msgid "View details"
+msgstr ""
+
+#: includes/wc-integration.php:287
+msgid "Appointments Start Time"
+msgstr ""
+
+#: includes/wc-integration.php:292
+msgid "Appointments End Time"
+msgstr ""
+
+#: includes/wc-integration.php:388
+msgid "Time"
+msgstr ""
+
+#: includes/wc-order-details-builder.php:203
+msgid "Add"
+msgstr ""
+
+#: includes/wc-order-details-builder.php:275
+msgid "Link is expired"
+msgstr ""
+
+#: includes/wc-order-details-builder.php:281
+msgid "You don`t have access to this post"
+msgstr ""
+
+#: includes/wc-order-details-builder.php:345
+#: templates/admin/jet-apb-settings/settings-working-hours.php:249
+#: templates/admin/jet-apb-settings/settings-working-hours.php:309
+#: templates/admin/jet-apb-settings/settings-working-hours.php:368
+msgid "Are you sure?"
+msgstr ""
+
+#: templates/admin/common/go-to-setup.php:4
+msgid "Start with some basic settings before using"
+msgstr ""
+
+#: templates/admin/common/go-to-setup.php:11
+msgid "Go to setup"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:7
+msgid "Set up WooCommerce order details"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:21
+msgid "Type"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:23
+msgid "Select type..."
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:24
+msgid "Service name"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:25
+msgid "Provider name"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:27
+msgid "Time slot start"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:28
+msgid "Time slot end"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:29
+msgid "Full time slot"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:30
+msgid "Full date and time"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:31
+msgid "Form field"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:32
+msgid "Add to Google calendar link"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:36
+msgid "Label"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:40
+msgid "Date format"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:45
+#: templates/admin/common/wc-details-builder.php:55
+#: templates/admin/common/wc-details-builder.php:68
+msgid "Formatting docs"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:50
+msgid "Time format"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:60
+msgid "Date/Time format"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:73
+msgid "Select form field"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:75
+msgid "Select field..."
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:80
+msgid "Link text"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:86
+msgid "Add new item"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:90
+#: templates/admin/jet-apb-appointments/popup.php:150
+#: templates/admin/jet-apb-settings/settings-working-hours.php:393
+#: templates/admin/jet-apb-settings/settings-working-hours.php:433
+msgid "Save"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:91
+msgid "Saving..."
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:93
+#: templates/admin/jet-apb-appointments/popup.php:140
+#: templates/admin/jet-apb-appointments/popup.php:159
+#: templates/admin/jet-apb-appointments/popup.php:169
+#: templates/admin/jet-apb-settings/settings-working-hours.php:394
+#: templates/admin/jet-apb-settings/settings-working-hours.php:434
+msgid "Cancel"
+msgstr ""
+
+#: templates/admin/custom-schedule-meta-box.php:3
+msgid "Use Custom Schedule"
+msgstr ""
+
+#: templates/admin/custom-schedule-meta-box.php:4
+msgid "You can use a custom schedule for services or providers."
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:8
+msgid "Appointment Specific Settings"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:13
+#: templates/admin/form/edit-fields.php:83
+msgid "Get Service ID From:"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:17
+#: templates/admin/form/edit-fields.php:49
+#: templates/admin/form/edit-fields.php:87
+msgid "Not Selected"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:18
+#: templates/admin/form/edit-fields.php:50
+#: templates/admin/form/edit-fields.php:88
+msgid "Current Post ID"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:19
+#: templates/admin/form/edit-fields.php:51
+#: templates/admin/form/edit-fields.php:89
+msgid "Form Field"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:20
+#: templates/admin/form/edit-fields.php:52
+#: templates/admin/form/edit-fields.php:90
+#: templates/admin/form/notification-fields.php:14
+#: templates/admin/form/notification-fields.php:27
+msgid "Manual Input"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:26
+#: templates/admin/form/edit-fields.php:96
+msgid "Select Service Field <i>(for <b>Form Field</b> option)</i>:"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:36
+#: templates/admin/form/edit-fields.php:106
+msgid "Set Service ID <i>(for <b>Manual Input</b> option)</i>:"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:45
+msgid "Get Provider ID From:"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:58
+msgid "Select Provider Field <i>(for <b>Form Field</b> option)</i>:"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:68
+msgid "Set Provider ID <i>(for <b>Manual Input</b> option)</i>:"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:78
+msgid "Provider Specific Settings"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:115
+msgid "Use Custom Template For Items:"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:120
+#: templates/admin/form/edit-fields.php:144
+#: templates/admin/jet-apb-settings/settings-working-hours.php:261
+#: templates/admin/jet-apb-settings/settings-working-hours.php:321
+#: templates/admin/jet-apb-settings/settings-working-hours.php:380
+msgid "No"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:121
+#: templates/admin/form/edit-fields.php:145
+#: templates/admin/jet-apb-settings/settings-working-hours.php:254
+#: templates/admin/jet-apb-settings/settings-working-hours.php:314
+#: templates/admin/jet-apb-settings/settings-working-hours.php:373
+msgid "Yes"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:127
+msgid "Custom Template ID:"
+msgstr ""
+
+#: templates/admin/form/edit-fields.php:139
+msgid "Switch Page on Change:"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:8
+msgid "Service ID field:"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:16
+msgid "Service ID"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:21
+msgid "Provider ID field:"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:29
+msgid "Provider ID"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:34
+msgid "Appointment date field:"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:45
+msgid "User e-mail field:"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:58
+msgid " field:"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:74
+msgid "WooCommerce Price field:"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:76
+msgid ""
+"Select field to get total price from. If not selected price will be get from "
+"post meta value."
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:89
+msgid "WooCommerce order details:"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:91
+msgid ""
+"Set up booking-related info you want to add to the WooCommerce orders and e-"
+"mails"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:95
+msgid "Set up"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:101
+msgid "WooCommerce checkout fields map:"
+msgstr ""
+
+#: templates/admin/form/notification-fields.php:103
+msgid ""
+"Connect WooCommerce checkout fields to appropriate form fields. This allows "
+"you to pre-fill WooCommerce checkout fields after redirect to checkout."
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/add-new-appointment.php:6
+#: templates/admin/jet-apb-appointments/popup.php:131
+msgid "Add New"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/appointments-calendar.php:25
+msgid "more"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/appointments-filter.php:2
+msgid "Filter"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/appointments-filter.php:15
+#: templates/admin/jet-apb-appointments/popup.php:79
+msgid "dd/mm/yyyy"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/appointments-filter.php:52
+msgid "Clear Filters"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/appointments-timeline.php:16
+#: templates/admin/jet-apb-settings/settings-working-hours.php:404
+msgid "From"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/appointments-timeline.php:23
+#: templates/admin/jet-apb-settings/settings-working-hours.php:418
+msgid "To"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/appointments-timeline.php:29
+msgid "Time Interval"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/appointments.php:25
+msgid "Appointments is loading..."
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/appointments.php:30
+msgid "No appointments found."
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/pagination.php:17
+msgid "Results per page"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/popup.php:11
+msgid "Are you sure? Deleted appointment can't be restored."
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/popup.php:14
+msgid "Edit Appointment:"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/popup.php:17
+msgid "Add New Appointment:"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/popup.php:20
+msgid "Appointment Details:"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/popup.php:180
+#: templates/admin/jet-apb-appointments/popup.php:205
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/jet-apb-appointments/popup.php:193
+msgid "Edit"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:5
+msgid "Step 1 of 4. Connect post types"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:9
+#, php-format
+msgid ""
+"To start you need to create a post type for appointment services (and "
+"providers if you need it). If you have already created the required post "
+"types, please select it from the list below. If no - please go to <a href="
+"\"%1$s\">Post Types</a> page and create it."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:12
+#: templates/admin/jet-apb-settings/settings-general.php:3
+msgid "Services post type"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:13
+#: templates/admin/jet-apb-settings/settings-general.php:4
+msgid "Select post type to fill services from"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:20
+msgid "Add providers"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:21
+msgid "Check this if you want to manage services providers"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:26
+#: templates/admin/jet-apb-settings/settings-general.php:12
+msgid "Provider post type"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:27
+#: templates/admin/jet-apb-settings/settings-general.php:13
+msgid "Select post type to fill providers from"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:44
+msgid "Step 2 of 4. Setup DB tables"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:50
+msgid "Required columns"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:53
+msgid "Minimum set of required DB columns"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:67
+#: templates/admin/jet-apb-settings/settings-tools.php:24
+msgid "New DB Column"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:83
+#: templates/admin/jet-apb-settings/settings-tools.php:40
+msgid "Column name"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:84
+#: templates/admin/jet-apb-settings/settings-tools.php:41
+msgid "Name for additional DB column"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:98
+msgid "Step 3 of 4. Setup working hours and days off"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:110
+msgid "Step 4 of 4. Setup additional options"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:114
+#: templates/admin/jet-apb-settings/set-up.php:151
+#: templates/admin/jet-apb-settings/settings-general.php:21
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:115
+#: templates/admin/jet-apb-settings/settings-general.php:22
+msgid "Check this to connect appointments with WooCommerce checkout"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:120
+msgid "Create a Single Service Booking Form"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:121
+msgid ""
+"Create a booking form for a single service page (without services select "
+"field). JetEngine forms module should be enabled"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:126
+msgid "Create Sample Page Booking Form"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:127
+msgid ""
+"Create booking form for any static page (with services select field). "
+"JetEngine forms module should be enabled"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:135
+msgid "Congratulations! You're all set!"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:140
+msgid "Post Types"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:143
+msgid "Manage Services"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:146
+msgid "Manage Providers"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:154
+msgid "Enabled"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:157
+msgid "Disabled"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:160
+msgid "Related product"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:165
+msgid "Created Forms"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:172
+msgid ""
+"<b>Note:</b> If you added additional DB columns, you need to add appropriate "
+"fields to the forms and notification settings."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:177
+msgid ""
+"To make all settings safe, you can disable Set Up Wizard in plugin settings "
+"(<b>Advanced</b> tab)"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:185
+msgid "Go to plugin settings"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:199
+msgid "Prev"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:208
+msgid "Finish"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:211
+msgid "Next"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:219
+msgid "Plugin is already set up."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:220
+msgid ""
+"If you want to reset current plugin data and set it again press the button "
+"below"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/set-up.php:226
+msgid "Reset"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-advanced.php:3
+msgid "Availability check by"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-advanced.php:4
+msgid ""
+"Select type of slots availability check - through all services or "
+"independent by each service"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-advanced.php:8
+msgid "Through all services"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-advanced.php:12
+msgid "By each service"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-advanced.php:21
+msgid "Hide Set Up Wizard"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-advanced.php:22
+msgid "Check this to hide Set Up page to avoid unnecessary plugin resets"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-general.php:28
+msgid "Manage Capacity"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-general.php:29
+msgid "Allow to manage services capacity"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-general.php:35
+msgid "Show Capacity Counter"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-general.php:36
+msgid "Show service capacity count in slots"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:3
+msgid "Use custom labels"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:4
+msgid "Check this change default weekdays and month labels"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:12
+msgid "By default: Sun"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:20
+msgid "By default: Mon"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:28
+msgid "By default: Tue"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:36
+msgid "By default: Wed"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:44
+msgid "By default: Thu"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:52
+msgid "By default: Fri"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:60
+msgid "By default: Sat"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:67
+msgid "January"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:68
+msgid "By default: January"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:75
+msgid "February"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:76
+msgid "By default: February"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:83
+msgid "March"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:84
+msgid "By default: March"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:91
+msgid "April"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:92
+msgid "By default: April"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:99
+msgid "May"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:100
+msgid "By default: May"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:107
+msgid "June"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:108
+msgid "By default: June"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:115
+msgid "July"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:116
+msgid "By default: July"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:123
+msgid "August"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:124
+msgid "By default: August"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:131
+msgid "September"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:132
+msgid "By default: September"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:139
+msgid "October"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:140
+msgid "By default: October"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:147
+msgid "November"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:148
+msgid "By default: November"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:155
+msgid "December"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-labels.php:156
+msgid "By default: December"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-tools.php:4
+msgid "Clear excluded dates cache"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-tools.php:5
+msgid "Remove all dates from excluded dates table"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-tools.php:20
+msgid "Additional table columns"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-tools.php:21
+msgid ""
+"You can add any columns you want to Appointments table. We recommend add "
+"cloumns only on plugin set up. When you added new columns, you need to map "
+"these columns to apopriate form field in related booking form."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-tools.php:50
+msgid "Warning:"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-tools.php:50
+msgid ""
+"If you change or remove any columns, all data stored in this columns will be "
+"lost!"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-tools.php:60
+msgid "Save and update appointments table"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:3
+msgid "Booking Schedule"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:7
+msgid "Slot time format"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:8
+msgid "Select time format for available slots list"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:17
+#: templates/admin/jet-apb-settings/settings-working-hours.php:18
+msgid "Booking type"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:37
+#: templates/admin/jet-apb-settings/settings-working-hours.php:88
+#: templates/admin/jet-apb-settings/settings-working-hours.php:185
+msgid "Min"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:48
+#: templates/admin/jet-apb-settings/settings-working-hours.php:99
+#: templates/admin/jet-apb-settings/settings-working-hours.php:196
+msgid "Max"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:60
+msgid "Several days"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:61
+msgid ""
+"The slot can include several days. For example, the slot starts 10:00 - "
+"02/05/21 ends of the slot 20:00 - 05/06/21."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:72
+msgid "Rebooking every:"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:73
+msgid "The client can choose the recurrence period of the appointments."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:85
+msgid "Repeat Count"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:115
+msgid "Select the default duration for each service and provider time slot"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:128
+msgid "Buffer Time Before Slot"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:141
+msgid "Buffer Time After Slot"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:154
+msgid "Locked Time Before"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:155
+msgid "The appointment cannot be made if there is less than this time left."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:168
+msgid "Multi Booking"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:169
+msgid ""
+"The client can book several appointments at different times and different "
+"days."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:182
+msgid "Slot Count"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:212
+#: templates/admin/jet-apb-settings/settings-working-hours.php:399
+msgid "Work Hours"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:223
+msgid "+ Add"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:274
+msgid "Days Off"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:277
+msgid "Set the days that will be the weekend."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:283
+#: templates/admin/jet-apb-settings/settings-working-hours.php:342
+msgid "Add Days"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:333
+msgid "Working Days"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:336
+msgid "Set available days for booking."
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:405
+msgid "Starts from time"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:419
+msgid "Work to time"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:439
+msgid "Select Days"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:442
+msgid "Days Label"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:443
+msgid "Name of the current day (eg. name of the holiday)"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:452
+msgid "Start Date *"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:453
+msgid "Pick a start day"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:458
+#: templates/admin/jet-apb-settings/settings-working-hours.php:473
+msgid "Select Date"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:467
+msgid "End Date"
+msgstr ""
+
+#: templates/admin/jet-apb-settings/settings-working-hours.php:468
+msgid "Pick a end day"
+msgstr ""
+
+#: templates/admin/order/details.php:7
+#: templates/public/email-order-details-html.php:7
+#: templates/public/email-order-details-plain.php:6
+#: templates/public/order-details.php:6
+msgid "Appointment Details"
+msgstr ""

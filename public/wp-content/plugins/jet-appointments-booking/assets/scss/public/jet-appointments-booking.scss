@@ -1,0 +1,26 @@
+.woocommerce{
+	#order_review, .woocommerce-cart-form{
+		.variation{
+			dd.variation-AppointmentInformation, dt.variation-AppointmentInformation{
+				margin: 10px 0 3px;
+				display: inline-block;
+				//
+			}
+			dd, dt{
+				text-transform: capitalize;
+			}
+		}
+	}
+	.woocommerce-order{
+		ul.woocommerce-thankyou-order-details.order_details{
+			margin: 0 0 1em;
+			li{
+				float: none;
+				font-size: 0.8em;
+				strong{
+					display: initial;
+				}
+			}
+		}
+	}
+}

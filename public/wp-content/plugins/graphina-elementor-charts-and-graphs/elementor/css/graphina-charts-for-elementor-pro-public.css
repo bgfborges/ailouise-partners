@@ -1,0 +1,81 @@
+/**
+ * All of the CSS for your  Graphina-pro public-facing functionality should be
+ * included in this file.
+ */
+
+.button-box{
+    padding: 8px 16px;
+    text-align: center;
+}
+
+.graphina-password-restricted-form{
+    text-align: center;
+}
+
+.chart-card .button-box button.graphina-button,
+.graphina-card .button-box button.graphina-button{
+    padding: 8px 16px;
+}
+
+.chart-card .button-box button.graphina-button,
+.chart-card .button-box button.graphina-button:not(:hover):not(:active):not(.has-background),
+.graphina-card .button-box button.graphina-button,
+.graphina-card .button-box button.graphina-button:not(:hover):not(:active):not(.has-background){
+    color: #fff;
+    font-size: 16px;
+    border-radius: 4px;
+    background-color: #39b54a;
+    border-color: #39b54a40;
+    letter-spacing: 0.2px;
+}
+
+.chart-card button:hover,
+.graphina-card button:hover{
+    background-color: #39b54a;
+    border-color: #39b54a40;
+    padding: 8px 16px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+}
+
+.graphina-input-wrapper{
+    padding: 8px 16px;
+    text-align: center;
+}
+
+.graphina-input-wrapper input{
+    padding: 8px 16px;
+    font-size: 16px;
+    border:1px solid #6d6d6d;
+    border-radius: 4px;
+}
+
+.graphina-password-heading{
+    color: #000000;
+    text-align: center;
+}
+.graphina-password-message{
+    padding: 8px 16px;
+    text-align: center;
+    color: #000000;
+    font-size: large;
+}
+
+.graphina-error-div{
+    display: flex;
+    justify-content: center;
+}
+
+.graphina-password-restricted-form .graphina-error {
+    padding: 5px 20px;
+    border-radius: 30px;
+    margin-top: 5px;
+    color: #93073c;
+    background-color: #93073c1c;;
+    margin-bottom: 0px;
+    border: 1px solid #93073c30;
+    width: 40%;
+    justify-content: center;
+}

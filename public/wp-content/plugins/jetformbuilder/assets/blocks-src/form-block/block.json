@@ -1,0 +1,39 @@
+{
+	"apiVersion": "2",
+	"name": "jet-forms/form-block",
+	"title": "JetForm",
+	"keywords": [
+		"jetform", "form", "builder", "crocoblock"
+	],
+	"textdomain": "jet-form-builder",
+	"supports": {
+		"html": false,
+		"className": true
+	},
+	"editorScript": "",
+	"editorStyle": "",
+	"category": "layout",
+	"icon": "feedback",
+	"attributes": {
+		"form_id": {
+			"type": "number",
+			"default": 0
+		},
+		"submit_type": {
+			"type": "string",
+			"default": "reload"
+		},
+		"required_mark": {
+			"type": "string",
+			"default": "*"
+		},
+		"fields_layout": {
+			"type": "string",
+			"default": "column"
+		},
+		"enable_progress": {
+			"type": "boolean",
+			"default": false
+		}
+	}
+}
