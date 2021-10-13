@@ -26,3 +26,6 @@ $ docker exec -it your_slug_wordmove /bin/bash
 2. Within bash, go to the WP Container and be happy:
 $ cd /var/www/html && wp --version --allow-root
 Notice: in the end of command line, always use the --allow-root to make your command works with wp cli.
+
+
+hello mundo
