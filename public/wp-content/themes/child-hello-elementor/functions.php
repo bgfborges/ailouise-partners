@@ -29,6 +29,15 @@ $user_id = get_current_user_id();
 if( $user_id && $user_id !== 1 ){
 	add_filter('show_admin_bar', '__return_false');
 }
+// Exclude this line when finish tests - because it apply to all including the primary
+// add_filter('show_admin_bar', '__return_false');
+
+// Import Initial Setup
+require CHILD_THEME_PATH . '/setup/registration.php';
+
+// Import Utils
+require CHILD_THEME_PATH . '/utils/page-functions.php';
+
 
 // Include Post Types
 require CHILD_THEME_PATH . '/post-types/lu_orders.php';
